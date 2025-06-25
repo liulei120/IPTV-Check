@@ -1,10 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 #http://goldtechk.com/4k/live.txt
-https://fy.188766.xyz/?url=http://220.172.126.32:18525/iptv
-http://220.172.126.32:18525/4gtv.m3u
-http://220.172.126.32:18525/yang.m3u
-http://220.172.126.32:18525/play.m3u
-http://220.172.126.32:18525/jdy.txt
 https://codeberg.org/liruohui19900717/xiaohui/raw/branch/main/xiaohui.txt
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt
 https://iptv.catvod.com/tv.m3u
