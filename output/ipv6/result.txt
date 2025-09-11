@@ -5,26 +5,24 @@ CCTV-5,http://free.cnlive.club/channel/47c9f401/index.m3u8?q=1756862022054$订�
 CCTV-6,http://free.cnlive.club/channel/63f18811/index.m3u8?q=1756948409977$订阅源
 CCTV-6,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1756948409977$订阅源
 CCTV-7,https://migu.188766.xyz/?migutoken=123a63ffc55178987a1e15d87ace37b9&id=CCTV7&pp=1$订阅源
-CCTV-7,https://migu.188766.xyz/?migutoken=04d99593e1dac859d062d01d7476c596&id=CCTV7&pp=1$订阅源
-CCTV-7,https://migu.188766.xyz/?migutoken=4e11d23b2207965b290f127952b16844&id=CCTV7&pp=1$订阅源
 CCTV-7,https://migu.188766.xyz/?migutoken=f816c6a891e4aea0e292a1ab2834c310&id=CCTV7&pp=1$订阅源
 CCTV-7,https://migu.188766.xyz/?migutoken=b49b19f011eabe4d1f08e4192f035448&id=CCTV7&pp=1$订阅源
+CCTV-7,https://migu.188766.xyz/?migutoken=04d99593e1dac859d062d01d7476c596&id=CCTV7&pp=1$订阅源
+CCTV-7,https://migu.188766.xyz/?migutoken=4e11d23b2207965b290f127952b16844&id=CCTV7&pp=1$订阅源
 CCTV-7,https://migu.188766.xyz/?migutoken=2c7b5f01ce906658cd12e8297b68f04f&id=CCTV7&pp=1$订阅源
 CCTV-7,https://migu.188766.xyz/?migutoken=d673ebf0c54aaff359e53f8934fc6e2a&id=CCTV7&pp=1$订阅源
 CCTV-9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1756862022054$订阅源
 CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1756948409977$订阅源
-CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1756862022054$订阅源
 CCTV-12,http://free.cnlive.club/channel/13604deb/index.m3u8?q=1756948409977$订阅源
 CCTV-13,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1756862022054$订阅源
 CCTV-13,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1756948409977$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
-CCTV-14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1756862022054$订阅源
 CCTV-14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1756948409977$订阅源
+CCTV-14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1756862022054$订阅源
 CCTV-15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1756948409977$订阅源
 CCTV-15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1756862022054$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
-CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1756862022054$订阅源
 CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1756948409977$订阅源
 CETV-1,https://migu.188766.xyz/$订阅源
 
@@ -33,60 +31,76 @@ CETV-1,https://migu.188766.xyz/$订阅源
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8$订阅源
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317$订阅源
+风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222$订阅源
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=61d7e3621070c30a5d7ef9cae4ebb120&tm=1757357234$订阅源
-怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8?sign=522e32e258aa0937f7ab79ccd7e83530&tm=1757357234$订阅源
+怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8?sign=f5f7142ffa4404d36f8ae92335393d5e&tm=1757535222$订阅源
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8?sign=c1868ff0e1460a7e8031a10c9a7f3ff8&tm=1757443317$订阅源
+怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8?sign=522e32e258aa0937f7ab79ccd7e83530&tm=1757357234$订阅源
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082$订阅源
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0$订阅源
 
 卫视频道,#genre#
+广东卫视,https://migu.188766.xyz/?migutoken=d981f9e55dc32b2b531e3a3cb64384c3&id=gdws&type=sz$订阅源
+香港卫视,https://migu.188766.xyz/?migutoken=33aeb96928f3547a02f083b0286c869b&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 香港卫视,https://migu.188766.xyz/?migutoken=fb03a21bede3eb8e11ffb10c699d8f63&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 香港卫视,https://migu.188766.xyz/?migutoken=03e8b1156a579dfc38cafd68a3a1f944&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-香港卫视,https://migu.188766.xyz/?migutoken=7d0c18bf93541a9c3d4221bd019b0f52&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-香港卫视,https://migu.188766.xyz/?migutoken=5d84de8f3ae3f28a7f3c8eacb0fa626a&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy$订阅源
-香港卫视,https://migu.188766.xyz/?migutoken=0cbee0a00b05a353cf1244cb1739fa7b&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-香港卫视,https://migu.188766.xyz/?migutoken=33aeb96928f3547a02f083b0286c869b&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 香港卫视,https://migu.188766.xyz/?migutoken=199241d2249c4f1cb22e4f470bfae1d3&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-浙江卫视,https://migu.188766.xyz/?migutoken=0db0033e279f802d29cd772fdbc699c5&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$订阅源
-浙江卫视,https://migu.188766.xyz/?migutoken=42966189ad4ccbcd71874999b2bb07e6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$订阅源
+香港卫视,https://migu.188766.xyz/?migutoken=5d84de8f3ae3f28a7f3c8eacb0fa626a&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
+香港卫视,https://migu.188766.xyz/?migutoken=0cbee0a00b05a353cf1244cb1739fa7b&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
+香港卫视,https://migu.188766.xyz/?migutoken=7d0c18bf93541a9c3d4221bd019b0f52&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 浙江卫视,https://migu.188766.xyz/?migutoken=4a7375e25e1853f7c241f1240e445891&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$订阅源
+浙江卫视,https://migu.188766.xyz/?migutoken=0db0033e279f802d29cd772fdbc699c5&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$订阅源
 浙江卫视,https://migu.188766.xyz/?migutoken=b1ef949f98d9816dd5f8b2bad5d58ac2&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$订阅源
+浙江卫视,https://migu.188766.xyz/?migutoken=42966189ad4ccbcd71874999b2bb07e6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$订阅源
+湖南卫视,https://migu.188766.xyz/?migutoken=d15014afbeced064c4ba33588c752f1e&id=hunws&type=sz$订阅源
 湖南卫视,https://migu.188766.xyz/?migutoken=0414025fd4b6857feeeedb35e810a99f&id=hunws&type=sz$订阅源
+北京卫视,https://migu.188766.xyz/?migutoken=08abcb74269b4b2180a40db90f5c32e3&id=bjws&type=sz$订阅源
 黑龙江卫视,https://migu.188766.xyz/?migutoken=6bac21c18380b03670bf1e08ea4a602a&id=hljws&type=sz$订阅源
+黑龙江卫视,https://migu.188766.xyz/?migutoken=2cc0a1bfa6232c875ca39790aa5a03a1&id=hljws&type=sz$订阅源
 安徽卫视,https://migu.188766.xyz/?migutoken=a7913c7323c9782d538859f82596273e&id=ahws&type=sz$订阅源
+重庆卫视,https://migu.188766.xyz/?migutoken=c3d3f8780a40549fb4d82dd512e2644f&id=cqws&type=sz$订阅源
 重庆卫视,https://migu.188766.xyz/?migutoken=53756aff7d444549e45d4a4d72793872&id=cqws&type=sz$订阅源
 甘肃卫视,https://migu.188766.xyz/?migutoken=0afcaff33f92fd3a3a1ce86969944248&id=gsws&type=sz$订阅源
+甘肃卫视,https://migu.188766.xyz/?migutoken=63bb76006a5d419422d83d57622e7095&id=gsws&type=sz$订阅源
+广西卫视,https://migu.188766.xyz/?migutoken=a8a12b5966e765246bba7f349d315e4b&id=gxws&type=sz$订阅源
 广西卫视,https://migu.188766.xyz/?migutoken=483d27f9a841b8833caf21966f4209d7&id=gxws&type=sz$订阅源
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=bdce9541054cbd05c09bd9c9f41c3c37&wsTime=1757599218$订阅源
+贵州卫视,https://migu.188766.xyz/?migutoken=b5f4aaca8467bbb21ee16fa360fd7e5a&id=gzws&type=sz$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=374cb55b717abb98912fc09d4384b163&wsTime=1757642410$订阅源
 吉林卫视,https://migu.188766.xyz/?migutoken=8e6958c0c8ae0b8ec9762473fb9ecfe7&id=jlws&type=sz$订阅源
+吉林卫视,https://migu.188766.xyz/?migutoken=0b1284018358a070f68d47045d0f1104&id=jlws&type=sz$订阅源
+辽宁卫视,https://migu.188766.xyz/?migutoken=4cc22e839ae91f747163d3e6baeb5235&id=lnws&type=sz$订阅源
 辽宁卫视,https://migu.188766.xyz/?migutoken=8c2a3691cb5f3825ac5e8c55b4777b44&id=lnws&type=sz$订阅源
+青海卫视,https://migu.188766.xyz/?migutoken=b2fcb8b05c77ad4575e5d21c34a472f1&id=qhws&type=sz$订阅源
 青海卫视,https://migu.188766.xyz/?migutoken=ba679fe9aa0aa2a3484e8bf1a334d8e5&id=qhws&type=sz$订阅源
+山西卫视,https://migu.188766.xyz/?migutoken=d19a8a8696d302bfe8594ddd13df0033&id=sxws&type=sz$订阅源
 山西卫视,https://migu.188766.xyz/?migutoken=9faf907db74d8d309a63ba614306183a&id=sxws&type=sz$订阅源
 四川卫视,https://migu.188766.xyz/?migutoken=ec6d4a7f4402f7a50b7eb9385bc4b28a&id=scws&type=sz$订阅源
+深圳卫视,https://migu.188766.xyz/?migutoken=5bb0777371d140206dd39a091297fa3c&id=szws&type=sz$订阅源
 深圳卫视,https://migu.188766.xyz/?migutoken=41f84cc6a0cfb1f410e338b25f5512a6&id=szws&type=sz$订阅源
+天津卫视,https://migu.188766.xyz/?migutoken=0d911a3abc7f795b5bb667020041809d&id=tjws&type=sz$订阅源
 天津卫视,https://migu.188766.xyz/?migutoken=672ec73b0c4c65ca6afb1c569782c883&id=tjws&type=sz$订阅源
 云南卫视,https://migu.188766.xyz/?migutoken=0d7148a0d7f2354685254bf498d4bc77&id=ynws&type=sz$订阅源
+云南卫视,https://migu.188766.xyz/?migutoken=72edbc3eec0cbc7db792e45a6a15f67a&id=ynws&type=sz$订阅源
 
 港台频道,#genre#
 
 电影频道,#genre#
-CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&tm=1757355490&token=072f4527703a45daa10a910c53fd653d5df5967341cf62fd859165a75cc3b6f2ae98138455253d9c9ac756a91e35dab648886b61f038012df542942ca2502a10bbd4d0abfb15d675d25435f808$订阅源
-CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=8cb818354b21b739fe1b348da51d8c02&tm=1757436314&token=3eee8e7c0cd72a4822fbb2305567610920e5486eb65af23471395453275f96c8e3db456b59d3a43e1fcd94ff6aa0c8112fb6034bc68a50699b461e0ab82dacf50788d0f12b2bad550e181d75a9$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$订阅源
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe$订阅源
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$订阅源
 
 体育频道,#genre#
-五星体育,https://migu.188766.xyz/?migutoken=b4a12825a3b076ddd90f49bc9f24148a&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
-五星体育,https://migu.188766.xyz/?migutoken=b4aab8e42ed1a2daeefc2a867d17d9a7&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
-五星体育,https://migu.188766.xyz/?migutoken=f3782f2d85f52cff2f5c7ec53bac8a9b&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
-五星体育,https://migu.188766.xyz/?migutoken=ff9f1eba6ac20eae0308d9ad91d9b6b1&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
-五星体育,https://migu.188766.xyz/?migutoken=d09088343387df041f08c35be9335085&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
 五星体育,https://migu.188766.xyz/?migutoken=dff81d5e3b548a2ae19d9928544bcc95&id=wxty&type=sz$订阅源
-五星体育,https://migu.188766.xyz/?migutoken=646652eaa553a933cd48556559d341b4&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
 五星体育,https://migu.188766.xyz/?migutoken=9e76389dda95bac262183c985824f02d&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
-五星体育,https://migu.188766.xyz/?migutoken=ab057286cbff73ca01a514c724e2af1d&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=ff9f1eba6ac20eae0308d9ad91d9b6b1&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=b4aab8e42ed1a2daeefc2a867d17d9a7&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=b4a12825a3b076ddd90f49bc9f24148a&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=646652eaa553a933cd48556559d341b4&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=71ffa78ec0f711ac9ea667fb3b8b2c9c&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=f3782f2d85f52cff2f5c7ec53bac8a9b&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
 五星体育,https://migu.188766.xyz/?migutoken=ee93a7a51bdb316388c8fa2973db5e79&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
+五星体育,https://migu.188766.xyz/?migutoken=ab057286cbff73ca01a514c724e2af1d&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$订阅源
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
@@ -97,4 +111,4 @@ CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=8cb818354b21b739f
 炫动卡通,https://mursor.ottiptv.cc/gptv/G_XUANDONG.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-09-11 18:30:47,https://migu.188766.xyz/?migutoken=741e40cd30ca20ff5b10e49b08c79086&id=CCTV1&type=yy#http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
+2025-09-12 06:44:10,https://migu.188766.xyz/?migutoken=741e40cd30ca20ff5b10e49b08c79086&id=CCTV1&type=yy#http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
