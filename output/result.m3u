@@ -1,380 +1,398 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/liulei120/IPTV-Check/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251028180035fa459c98881a4db58dfe3f0630b89072&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251028180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20251028180035&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=40b16fb20d1c460e18bcba000cec1ec3&ddCalcu=34c0eeb2118c60efcb02000da1bcc4b6801e$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251029060028407e9e787e3142a0b506b027be72af7d&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251029060028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.88&SecurityKey=20251029060028&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3b70c6911f45528b8130e7a0a95795b2&ddCalcu=23bbe5729087c05699a101af74e50532188b$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 https://jzb.wwkejishe.top/?id=578$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://111.162.207.136:8686/rtp/225.1.1.120:5002$雷蒙影视•IPV4『线路95』
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://222.218.122.56:8188/udp/239.81.0.102:4056$雷蒙影视•IPV4『线路36』
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://114.100.195.213:4022/rtp/238.1.78.166:7200$雷蒙影视•IPV4『线路101』
+http://171.113.210.116:4022/rtp/239.254.96.96:8550$雷蒙影视•IPV4『线路98』
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://144.255.32.94:8288/udp/239.21.1.120:5002$雷蒙影视•IPV4『线路90』
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://114.107.44.15:8188/rtp/238.1.78.166:7200$雷蒙影视•IPV4『线路85』
+http://222.218.122.56:8188/udp/239.81.0.102:4056$雷蒙影视•IPV4『线路36』
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
+http://115.58.141.236:4000/rtp/225.1.4.73:1102$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://60.163.19.174:8188/udp/233.50.200.130:5140$雷蒙影视•IPV4『线路79』
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://120.40.57.132:1000/rtp/239.61.3.61:9884$雷蒙影视•IPV4『线路91』
+http://111.113.88.237:2000/rtp/239.121.4.113:8636$雷蒙影视•IPV4『线路104』
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://114.254.37.115:18888/rtp/239.3.1.129:8008$雷蒙影视•IPV4『线路107』
+http://111.226.232.107:10010/rtp/239.254.200.45:8008$雷蒙影视•IPV4『线路80』
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
+http://175.8.181.148:7878/udp/239.76.251.87:9000$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
 https://jzb.wwkejishe.top/?id=579$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=202510281800359d6239d68b7c48f794e0afc49e360b7b&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251028180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.83&SecurityKey=20251028180035&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a2f81a9949158049505c37e3f0027bb0&ddCalcu=0ab2ebf27812100a09f934e97135c8500459$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=2025102906002815abc81c683c4ec38a7f4d34c3d3c50a&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251029060028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.88&SecurityKey=20251029060028&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=40a19f56359015219ce7c53c50c5b689&ddCalcu=9480e6a2b11590cf0556c33559c071e5c291$订阅源
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
+http://221.13.235.200:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路101』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
 http://111.162.207.136:8686/rtp/225.1.1.133:5002$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
 http://144.255.32.94:8288/udp/239.21.1.151:5002$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://114.107.44.15:8188/rtp/238.1.78.235:7752$雷蒙影视•IPV4『线路60』
+http://171.113.210.116:4022/rtp/239.69.1.102:10250$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://115.58.141.236:4000/rtp/225.1.4.74:1103$雷蒙影视•IPV4『线路55』
+http://60.163.19.174:8188/udp/233.50.200.25:5140$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://120.40.57.132:1000/rtp/239.61.2.174:9032$雷蒙影视•IPV4『线路67』
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://112.66.73.196:8188/rtp/239.253.64.195:5140$雷蒙影视•IPV4『线路66』
+http://111.226.232.107:10010/rtp/239.254.200.158:6000$雷蒙影视•IPV4『线路62』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
 http://175.8.181.148:7878/udp/239.76.253.152:9000$雷蒙影视•IPV4『线路64』
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://114.254.37.115:18888/rtp/239.3.1.60:8084$雷蒙影视•IPV4『线路79』
+http://114.100.195.213:4022/rtp/238.1.78.235:7752$雷蒙影视•IPV4『线路76』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20251028180035e5fa10e4dd0e4af8a5c86c7cd04b89c3&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251028180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.83&SecurityKey=20251028180035&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=32a8242e460bd05fa91160f90ee1ff00&ddCalcu=0302efa2f84120e4e20e94f6006b1d1095af$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=2025102906002974d4e606854843279f6541b091433806&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=457d845b9c349bcfac7f9623998e501b&ddCalcu=b415e0725d4e8084959b392c6394f97bccaf$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
 https://jzb.wwkejishe.top/?id=580$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://60.163.19.174:8188/udp/233.50.201.196:5140$雷蒙影视•IPV4『线路62』
+http://221.13.235.200:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路104』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://183.220.107.138:4022/rtp/239.11.0.101:5140$雷蒙影视•IPV4『线路30』
+http://171.113.210.116:4022/rtp/239.69.1.122:10370$雷蒙影视•IPV4『线路76』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
 http://111.162.207.136:8686/rtp/225.1.1.158:5002$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
+http://183.220.107.138:4022/rtp/239.11.0.101:5140$雷蒙影视•IPV4『线路30』
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
 http://222.218.122.56:8188/udp/239.81.0.231:4056$雷蒙影视•IPV4『线路34』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://114.100.195.213:4022/rtp/238.1.78.170:7232$雷蒙影视•IPV4『线路80』
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://120.40.57.132:1000/rtp/239.61.3.34:9722$雷蒙影视•IPV4『线路70』
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://111.226.232.107:10010/rtp/239.254.201.152:7205$雷蒙影视•IPV4『线路60』
+http://115.58.141.236:4000/rtp/225.1.4.158:1194$雷蒙影视•IPV4『线路53』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
 http://114.107.44.15:8188/rtp/238.1.78.170:7232$雷蒙影视•IPV4『线路63』
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
+http://111.226.232.107:10010/rtp/239.254.201.152:7205$雷蒙影视•IPV4『线路60』
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=20251028180035b9d7881d495d4967a7ca3ed183a181f6&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251028180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.83&SecurityKey=20251028180035&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e8ef75cd32fad6418e50aee4bd10bd9f&ddCalcu=fe98ede2bf107015dcbd43e2efaa0d56e481$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=20251029060029e2b616ff5c73447592fc834da7a105fb&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fcdfcaaafb8fcba622de2be3ea018ade&ddCalcu=efdcead28f11c00aaaea3febb82fecdb2a26$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
 https://jzb.wwkejishe.top/?id=581$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://111.162.207.136:8686/rtp/225.1.1.150:5002$雷蒙影视•IPV4『线路89』
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://171.113.210.116:4022/rtp/239.69.1.232:11034$雷蒙影视•IPV4『线路95』
+http://144.255.32.94:8288/udp/239.21.2.29:5002$雷蒙影视•IPV4『线路93』
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+http://115.58.141.236:4000/rtp/225.1.5.32:1343$雷蒙影视•IPV4『线路45』
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+http://144.255.32.94:8288/udp/239.21.1.154:5002$雷蒙影视•IPV4『线路98』
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+http://115.58.141.236:4000/rtp/225.1.5.30:1333$雷蒙影视•IPV4『线路70』
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+http://221.13.235.200:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路132』
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://111.226.232.107:10010/rtp/239.254.201.206:4220$雷蒙影视•IPV4『线路62』
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://112.66.92.80:8188/rtp/239.253.64.196:5140$雷蒙影视•IPV4『线路127』
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://114.254.37.115:18888/rtp/239.3.1.214:4220$雷蒙影视•IPV4『线路32』
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://114.254.37.115:18888/rtp/239.3.1.105:8092$雷蒙影视•IPV4『线路100』
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://114.254.37.115:18888/rtp/239.3.1.213:4220$雷蒙影视•IPV4『线路53』
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://144.255.32.94:8288/udp/239.21.2.29:5002$雷蒙影视•IPV4『线路93』
+http://171.113.210.116:4022/rtp/239.69.1.138:10466$雷蒙影视•IPV4『线路92』
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=2025102818003571bb71f62aab4de7af128419e7716e48&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251028180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20251028180035&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7e58c8d796b2bba91e37d7094a3d7910&ddCalcu=071ee952781dc038ad4799067bd27b3bea19$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251029060029d5709898b26a4ae1887aa16208a1e4c2&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0f8b2c9a31fcd62f30395dabf85bc1c6&ddCalcu=60cfe182cb1b205c89fab3a1df5c9d36023f$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 http://180.136.233.111:10099/udp/239.81.0.232:4056$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 http://111.162.207.136:8686/rtp/225.1.1.160:5002$雷蒙影视•IPV4『线路83』
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://60.163.19.174:8188/udp/233.50.201.197:5140$雷蒙影视•IPV4『线路65』
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://112.66.73.196:8188/rtp/239.253.64.245:5140$雷蒙影视•IPV4『线路79』
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 http://183.220.107.138:4022/rtp/239.11.0.100:5140$雷蒙影视•IPV4『线路44』
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://223.167.245.20:8001/rtp/239.45.1.69:5140$雷蒙影视•IPV4『线路58』
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://120.40.57.132:1000/rtp/239.61.3.35:9728$雷蒙影视•IPV4『线路80』
+http://144.255.32.94:8288/udp/239.21.2.46:5002$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 http://115.58.141.236:4000/rtp/225.1.4.159:1195$雷蒙影视•IPV4『线路56』
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://144.255.32.94:8288/udp/239.21.2.46:5002$雷蒙影视•IPV4『线路73』
+http://111.226.232.107:10010/rtp/239.254.201.153:7206$雷蒙影视•IPV4『线路63』
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
+http://221.13.235.200:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路115』
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
+http://114.100.195.213:4022/rtp/238.1.78.171:7240$雷蒙影视•IPV4『线路90』
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
+http://36.46.98.107:8025/rtp/239.112.205.222:5140$雷蒙影视•IPV4『线路105』
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251028180036fc62eebae7f6445e846cb9bcc82d3e89&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251028180036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20251028180036&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b4e8766fa7459ab40883b7ae48605591&ddCalcu=1b94e5e258107066864feaa774b5398a8b04$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251029060029e05e45cb3136406881374de8b733d52a&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b2bcc0be46070c3bbcd1cc7deed7e483&ddCalcu=3b82e4b2ec17c0d0ebeed476c0c710dcc3bb$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 https://jzb.wwkejishe.top/?id=583$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
+http://171.113.210.116:4022/rtp/239.254.96.234:9484$雷蒙影视•IPV4『线路54』
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://111.162.207.136:8686/rtp/225.1.1.121:5002$雷蒙影视•IPV4『线路51』
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://120.40.57.132:1000/rtp/239.61.2.171:9014$雷蒙影视•IPV4『线路47』
+http://115.58.141.236:4000/rtp/225.1.4.75:1104$雷蒙影视•IPV4『线路43』
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://222.218.122.56:8188/udp/239.81.0.101:4056$雷蒙影视•IPV4『线路24』
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://111.226.232.107:10010/rtp/239.254.200.46:8004$雷蒙影视•IPV4『线路49』
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://144.255.32.94:8288/udp/239.21.1.142:5002$雷蒙影视•IPV4『线路55』
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://60.163.19.174:8188/udp/233.50.201.220:5140$雷蒙影视•IPV4『线路52』
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://114.107.44.15:8188/rtp/238.1.78.237:7768$雷蒙影视•IPV4『线路42』
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://114.254.37.115:18888/rtp/239.3.1.130:8004$雷蒙影视•IPV4『线路60』
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20251028180036d2f4f95d8d8b49c39bc3c490eb656ee1&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251028180036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.83&SecurityKey=20251028180036&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c91a6ff7fcf939196180421780bf6bc&ddCalcu=c6bce692f14ba0068f7f172f4c0f89136991$订阅源
+http://111.226.232.107:10010/rtp/239.254.200.46:8004$雷蒙影视•IPV4『线路49』
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
+http://60.163.19.174:8188/udp/233.50.201.220:5140$雷蒙影视•IPV4『线路52』
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
 https://jzb.wwkejishe.top/?id=584$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://171.113.210.116:4022/rtp/239.69.1.124:10382$雷蒙影视•IPV4『线路73』
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://223.167.245.20:8001/rtp/239.45.1.70:5140$雷蒙影视•IPV4『线路56』
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://111.162.207.136:8686/rtp/225.1.1.195:5002$雷蒙影视•IPV4『线路70』
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://60.163.19.174:8188/udp/233.50.201.198:5140$雷蒙影视•IPV4『线路63』
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=2025102906002906e7c6787aad404e886794d5ca0971a5&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=288d30eb37ae94942263c7a57a6f400a&ddCalcu=a208e0824d4f3060ae7b53a77ace39642924$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
 http://222.218.122.56:8188/udp/239.81.0.233:4056$雷蒙影视•IPV4『线路34』
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://120.40.57.132:1000/rtp/239.61.3.36:9734$雷蒙影视•IPV4『线路66』
+http://60.163.19.174:8188/udp/233.50.201.198:5140$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://112.66.73.196:8188/rtp/239.253.64.246:5140$雷蒙影视•IPV4『线路65』
+http://114.107.44.15:8188/rtp/238.1.78.172:7248$雷蒙影视•IPV4『线路60』
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
+http://171.113.210.116:4022/rtp/239.69.1.124:10382$雷蒙影视•IPV4『线路73』
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
+http://115.58.141.236:4000/rtp/225.1.4.160:1196$雷蒙影视•IPV4『线路55』
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
+http://175.8.181.148:7878/udp/239.76.253.156:9000$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
 http://111.226.232.107:10010/rtp/239.254.201.154:7207$雷蒙影视•IPV4『线路61』
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
+http://115.171.216.92:4000/rtp/225.1.8.84:8000$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
-https://jzb.wwkejishe.top/?id=585$订阅源
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
-http://111.162.207.136:8686/rtp/225.1.1.138:5002$雷蒙影视•IPV4『线路72』
+http://221.13.235.200:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
 http://171.113.210.116:4022/rtp/239.69.1.103:10256$雷蒙影视•IPV4『线路75』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
+http://111.162.207.136:8686/rtp/225.1.1.138:5002$雷蒙影视•IPV4『线路72』
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
 http://144.255.32.94:8288/udp/239.21.1.152:5002$雷蒙影视•IPV4『线路72』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
-http://120.40.57.132:1000/rtp/239.61.2.175:9038$雷蒙影视•IPV4『线路69』
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
-http://114.107.44.15:8188/rtp/238.1.78.239:7784$雷蒙影视•IPV4『线路62』
+http://115.58.141.236:4000/rtp/225.1.4.76:1105$雷蒙影视•IPV4『线路56』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
 http://223.167.245.20:8001/rtp/239.45.3.56:5140$雷蒙影视•IPV4『线路58』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
-http://114.254.37.115:18888/rtp/239.3.1.61:8104$雷蒙影视•IPV4『线路80』
+http://114.107.44.15:8188/rtp/238.1.78.239:7784$雷蒙影视•IPV4『线路62』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
-http://175.8.181.148:7878/udp/239.76.253.157:9000$雷蒙影视•IPV4『线路66』
+http://115.171.216.45:4000/rtp/225.1.8.7:8104$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
 http://111.226.232.107:10010/rtp/239.254.200.159:6000$雷蒙影视•IPV4『线路63』
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
+http://175.8.181.148:7878/udp/239.76.253.157:9000$雷蒙影视•IPV4『线路66』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20251028180036fe21061bc1064ae49f06ab753f9f7831&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251028180036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.83&SecurityKey=20251028180036&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=af8508e81a01f13fbdfc43a950611b6f&ddCalcu=fa6feb82154100680e5891aa3041cff1d3bf$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20251029060029265164c7cd07458887987cd02aeab864&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=22316d28e8418eb23748b1116d57d226&ddCalcu=6222e232d147605dd2681e1814b1884e7b32$订阅源
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
+http://221.13.235.200:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路98』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
 http://111.162.207.136:8686/rtp/225.1.1.196:5002$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
 http://144.255.32.94:8288/udp/239.21.2.48:5002$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://60.163.19.174:8188/udp/233.50.201.199:5140$雷蒙影视•IPV4『线路60』
+http://115.58.141.236:4000/rtp/225.1.4.161:1197$雷蒙影视•IPV4『线路52』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
 http://183.220.107.138:4022/rtp/239.11.0.103:5140$雷蒙影视•IPV4『线路39』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://112.109.206.113:9999/rtp/239.255.40.197:8208$雷蒙影视•IPV4『线路46』
+http://171.113.210.116:4022/rtp/239.69.1.125:10388$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://120.40.57.132:1000/rtp/239.61.3.37:9740$雷蒙影视•IPV4『线路64』
+http://114.100.195.213:4022/rtp/238.1.78.173:7256$雷蒙影视•IPV4『线路74』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
 http://111.226.232.107:10010/rtp/239.254.201.155:7208$雷蒙影视•IPV4『线路59』
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
 http://223.167.245.20:8001/rtp/239.45.1.71:5140$雷蒙影视•IPV4『线路53』
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://114.107.44.15:8188/rtp/238.1.78.173:7256$雷蒙影视•IPV4『线路57』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251028180036d7c3b112fa444c13b29625b3cd262089&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251028180036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.83&SecurityKey=20251028180036&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ac9dafb1a837517572442eade8f2128c&ddCalcu=ca8ce2921d32a0ff8be1daa8e32745412775$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251029060029e98096f405224f3f911fcf46ea8f94c4&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0bcc45dca86c2da91fe4a4cc0f9b1e3f&ddCalcu=f03beec21c3b4095fd0ccac846ac42edfa19$订阅源
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
+http://221.13.235.200:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路97』
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
+http://101.66.199.134:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
 http://111.162.207.136:8686/rtp/225.1.1.119:5002$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://144.255.32.94:8288/udp/239.21.1.153:5002$雷蒙影视•IPV4『线路68』
+http://171.113.210.116:4022/rtp/239.69.1.104:10262$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://223.167.245.20:8001/rtp/239.45.3.4:5140$雷蒙影视•IPV4『线路53』
+http://115.58.141.236:4000/rtp/225.1.4.77:1106$雷蒙影视•IPV4『线路52』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
 http://183.220.107.138:4022/rtp/239.11.0.111:5140$雷蒙影视•IPV4『线路43』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://120.40.57.132:1000/rtp/239.61.2.172:9020$雷蒙影视•IPV4『线路64』
+http://223.167.245.20:8001/rtp/239.45.3.4:5140$雷蒙影视•IPV4『线路53』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://114.107.44.15:8188/rtp/238.1.78.240:7792$雷蒙影视•IPV4『线路57』
+http://144.255.32.94:8288/udp/239.21.1.153:5002$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://175.8.181.148:7878/udp/239.76.253.159:9000$雷蒙影视•IPV4『线路61』
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://175.8.181.148:7878/udp/239.76.246.159:1234$雷蒙影视•IPV4『线路75』
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://115.58.141.236:4000/rtp/225.1.4.77:1106$雷蒙影视•IPV4『线路52』
+http://111.113.88.237:2000/rtp/239.121.4.157:8926$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=20251028180037a97fe80b68424df4b9bdeaf4f8e14ddf&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251028180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.83&SecurityKey=20251028180037&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d4882eb727124f9a245476727b4229a3&ddCalcu=3da4e9822842204ebb7722776172445f492a$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=20251029060029028d606e5a084b2a842aa251cf9c042b&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251029060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.88&SecurityKey=20251029060029&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9b952ed473e001f2c77450f4ceefbc6a&ddCalcu=a96bec92b54f20eeedc447f30e5040717fc2$订阅源
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
+http://221.13.235.200:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
 http://111.162.207.136:8686/rtp/225.1.1.140:5002$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://144.255.32.94:8288/udp/239.21.1.155:5002$雷蒙影视•IPV4『线路72』
+http://171.113.210.116:4022/rtp/239.69.1.105:10268$雷蒙影视•IPV4『线路74』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://223.167.245.20:8001/rtp/239.45.3.8:5140$雷蒙影视•IPV4『线路56』
+http://101.66.199.134:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路99』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://175.8.181.148:7878/udp/239.76.246.160:1234$雷蒙影视•IPV4『线路79』
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://120.40.57.132:1000/rtp/239.61.2.176:9044$雷蒙影视•IPV4『线路68』
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://114.100.195.213:4022/rtp/238.1.78.241:7800$雷蒙影视•IPV4『线路76』
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://114.107.44.15:8188/rtp/238.1.78.241:7800$雷蒙影视•IPV4『线路61』
+http://115.58.141.236:4000/rtp/225.1.4.78:1107$雷蒙影视•IPV4『线路57』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
 http://111.226.232.107:10010/rtp/239.254.200.160:6000$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://175.8.181.148:7878/udp/239.76.253.160:9000$雷蒙影视•IPV4『线路65』
+http://115.171.216.45:4000/rtp/225.1.8.10:8116$雷蒙影视•IPV4『线路68』
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
+http://223.167.245.20:8001/rtp/239.45.3.8:5140$雷蒙影视•IPV4『线路56』
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
+http://144.255.32.94:8288/udp/239.21.1.155:5002$雷蒙影视•IPV4『线路72』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=202510281800374d5346657fcb401d911125bcc82e42c9&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251028180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.83&SecurityKey=20251028180037&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7f333444202af9bb8f00043173700da9&ddCalcu=97afed320370307434741230420a0f09fb8b$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=202510290600300c3e4990a2e543dc8aa3e463869a7776&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251029060030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.88&SecurityKey=20251029060030&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3cd2a5a3904e6402ceefec734fce02b7&ddCalcu=73bce2d2027ea0c5fa433970c4eef6e4e0c2$订阅源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 https://jzb.wwkejishe.top/?id=589$订阅源
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
+http://221.13.235.200:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路101』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://111.162.207.136:8686/rtp/225.1.2.192:5002$雷蒙影视•IPV4『线路72』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://144.255.32.94:8288/udp/239.21.2.2:5002$雷蒙影视•IPV4『线路72』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://120.40.57.132:1000/rtp/239.61.2.21:8120$雷蒙影视•IPV4『线路70』
+http://115.171.216.45:4000/rtp/225.1.8.73:8120$雷蒙影视•IPV4『线路69』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://114.100.195.213:4022/rtp/238.1.78.206:7502$雷蒙影视•IPV4『线路76』
+http://115.58.141.236:4000/rtp/225.1.4.215:1268$雷蒙影视•IPV4『线路59』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://111.226.232.107:10010/rtp/239.254.201.123:8120$雷蒙影视•IPV4『线路64』
+http://111.113.88.237:2000/rtp/239.121.4.150:9202$雷蒙影视•IPV4『线路78』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://114.107.44.15:8188/rtp/238.1.78.206:7502$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://106.116.242.179:9999/rtp/239.254.201.123:8120$雷蒙影视•IPV4『线路78』
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://112.66.73.196:8188/rtp/239.253.64.70:5140$雷蒙影视•IPV4『线路69』
+http://114.100.195.213:4022/rtp/238.1.78.206:7502$雷蒙影视•IPV4『线路76』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=202510281800373161d9ad6ecf44c984bf71e49def447e&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251028180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.83&SecurityKey=20251028180037&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1d95795e6df12a07238c64fdc31e4c51&ddCalcu=115dec92453e701935ced6fd4f61c28a3027$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=202510290600309ee46d5d9c2948b99d8af1fced3ff455&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251029060030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.88&SecurityKey=20251029060030&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=13a227bd70b87d68fbdfb5bf88f642f1&ddCalcu=11f3e2a2423620f78b8df7b05bb8f7ddb6f8$订阅源
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
+http://221.13.235.200:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路97』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 http://111.162.207.136:8686/rtp/225.1.1.142:5002$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
+http://223.167.245.20:8001/rtp/239.45.3.10:5140$雷蒙影视•IPV4『线路52』
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 http://171.113.210.116:4022/rtp/239.69.1.106:10274$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://114.100.195.213:4022/rtp/238.1.78.242:7808$雷蒙影视•IPV4『线路73』
+http://115.58.141.236:4000/rtp/225.1.4.79:1108$雷蒙影视•IPV4『线路52』
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
+http://111.226.232.107:10010/rtp/239.254.200.161:6000$雷蒙影视•IPV4『线路60』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 http://144.255.32.94:8288/udp/239.21.1.156:5002$雷蒙影视•IPV4『线路69』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://114.107.44.15:8188/rtp/238.1.78.242:7808$雷蒙影视•IPV4『线路56』
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://175.8.181.148:7878/udp/239.76.253.162:9000$雷蒙影视•IPV4『线路60』
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://120.40.57.132:1000/rtp/239.61.2.177:9050$雷蒙影视•IPV4『线路63』
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 http://60.163.19.174:8188/udp/233.50.201.123:5140$雷蒙影视•IPV4『线路59』
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://111.226.232.107:10010/rtp/239.254.200.161:6000$雷蒙影视•IPV4『线路60』
+http://114.100.195.213:4022/rtp/238.1.78.242:7808$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20251028180037b2d2b198132d4352973d2439e69a2616&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251028180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.83&SecurityKey=20251028180037&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d4925b32a86a18cbe2c8df7d532e1bf5&ddCalcu=5df4eb92128e502b3352da78f6da81c82ceb$订阅源
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202510290600300506cfe2ebc84509a281d6e6b9914d0d&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251029060030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.88&SecurityKey=20251029060030&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5ac0f20f37fb344e108c4aa2325d383d&ddCalcu=d53ae8c2308df052203f23a7af4bc384041e$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://222.218.122.56:8188/udp/239.81.0.206:4056$雷蒙影视•IPV4『线路35』
+http://221.13.235.200:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路106』
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+http://171.113.210.116:4022/rtp/239.254.96.161:9040$雷蒙影视•IPV4『线路77』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://111.162.207.136:8686/rtp/225.1.2.193:5002$雷蒙影视•IPV4『线路74』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://183.220.107.138:4022/rtp/239.11.0.24:5140$雷蒙影视•IPV4『线路38』
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://120.40.57.132:1000/rtp/239.61.2.23:8132$雷蒙影视•IPV4『线路72』
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://113.106.171.234:8899/rtp/239.21.0.88:3692$雷蒙影视•IPV4『线路40』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://114.254.37.115:18888/rtp/239.3.1.124:8128$雷蒙影视•IPV4『线路83』
+http://222.218.122.56:8188/udp/239.81.0.206:4056$雷蒙影视•IPV4『线路35』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://106.116.242.179:9999/rtp/239.254.200.9:8264$雷蒙影视•IPV4『线路84』
+http://183.220.107.138:4022/rtp/239.11.0.24:5140$雷蒙影视•IPV4『线路38』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://175.8.181.148:7878/udp/239.76.246.93:1234$雷蒙影视•IPV4『线路83』
+http://111.226.232.107:10010/rtp/239.254.200.9:8264$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://114.100.195.213:4022/rtp/238.1.79.35:4392$雷蒙影视•IPV4『线路81』
+http://115.58.141.236:4000/rtp/225.1.4.113:1293$雷蒙影视•IPV4『线路61』
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+http://60.163.19.174:8188/udp/233.50.201.246:5140$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202510281800374925b621df384aca84fd96bd805eed93&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251028180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.83&SecurityKey=20251028180037&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5c5bfb2a2a42ab7f1ab588242ee1c8c7&ddCalcu=75cce852cb41f0ebe22a422a84825abba71f$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=20251029060030a1fa4fe2e7d645a88070e9e5f47d0225&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251029060030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.88&SecurityKey=20251029060030&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=161ff5c90a914c62738a28c1c10334e2&ddCalcu=21e6e4123f43f0051cc910ca8921a48c3672$订阅源
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+http://221.13.235.200:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路98』
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://111.162.207.136:8686/rtp/225.1.1.144:5002$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://183.220.107.138:4022/rtp/239.11.0.114:5140$雷蒙影视•IPV4『线路44』
+http://171.113.210.116:4022/rtp/239.69.1.107:10280$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://120.40.57.132:1000/rtp/239.61.2.178:9056$雷蒙影视•IPV4『线路64』
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://114.107.44.15:8188/rtp/238.1.78.243:7816$雷蒙影视•IPV4『线路57』
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://144.255.32.94:8288/udp/239.21.1.157:5002$雷蒙影视•IPV4『线路69』
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://122.189.103.197:8888/rtp/228.0.0.14:6108$雷蒙影视•IPV4『线路53』
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://175.8.181.148:7878/udp/239.76.253.164:9000$雷蒙影视•IPV4『线路61』
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://114.254.37.115:18888/rtp/239.3.1.65:8132$雷蒙影视•IPV4『线路76』
+http://111.113.88.237:2000/rtp/239.121.4.160:8944$雷蒙影视•IPV4『线路72』
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://115.58.141.236:4000/rtp/225.1.4.80:1109$雷蒙影视•IPV4『线路53』
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+http://61.159.135.223:18000/rtp/238.255.2.17:5999$雷蒙影视•IPV4『线路70』
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+http://101.66.199.134:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路95』
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+http://36.46.98.19:8025/rtp/239.112.205.91:5140$雷蒙影视•IPV4『线路71』
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+http://1.58.243.42:4001/rtp/229.58.190.159:5000$雷蒙影视•IPV4『线路80』
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=20251028180037b619a82da7b6404c920d517f6522f5de&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251028180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.83&SecurityKey=20251028180037&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=449529c0ab99eb0ab55d4f022bafffc7&ddCalcu=74c4ef92f53f20a9bc202a0bf949de5b50ba$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=20251029060030b4fe9866865e42dda86c3eee723d5c6a&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251029060030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.88&SecurityKey=20251029060030&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b95bb406b67663194bd33189a38a49c3&ddCalcu=3bc9e9524b3ab08430a69b86173636d3b149$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://111.162.207.136:8686/rtp/225.1.2.194:5002$雷蒙影视•IPV4『线路70』
+http://221.13.235.200:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路99』
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://114.107.44.15:8188/rtp/238.1.78.222:7648$雷蒙影视•IPV4『线路61』
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://175.8.181.148:7878/udp/239.76.252.252:9000$雷蒙影视•IPV4『线路66』
+http://171.113.210.116:4022/rtp/239.69.1.155:10566$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://115.58.141.236:4000/rtp/225.1.4.216:1269$雷蒙影视•IPV4『线路57』
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://120.40.57.132:1000/rtp/239.61.2.25:8144$雷蒙影视•IPV4『线路68』
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://114.254.37.115:18888/rtp/239.3.1.153:8136$雷蒙影视•IPV4『线路78』
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://144.255.32.94:8288/udp/239.21.2.4:5002$雷蒙影视•IPV4『线路70』
+http://111.113.88.237:2000/rtp/239.121.4.202:9208$雷蒙影视•IPV4『线路76』
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://114.100.195.213:4022/rtp/238.1.78.222:7648$雷蒙影视•IPV4『线路74』
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://223.198.241.248:4000/rtp/239.253.64.72:5140$雷蒙影视•IPV4『线路83』
+http://36.46.98.19:8025/rtp/239.112.205.214:5140$雷蒙影视•IPV4『线路75』
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
+http://61.159.135.223:18000/rtp/238.255.2.18:5999$雷蒙影视•IPV4『线路72』
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
+http://111.162.207.136:8686/rtp/225.1.2.194:5002$雷蒙影视•IPV4『线路70』
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
+http://36.46.98.107:8025/rtp/239.112.205.214:5140$雷蒙影视•IPV4『线路88』
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 http://171.113.210.116:4022/rtp/239.69.1.249:11136$雷蒙影视•IPV4『线路39』
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://60.163.19.174:8188/udp/233.50.201.63:5140$雷蒙影视•IPV4『线路36』
+http://171.113.210.116:4022/rtp/239.69.1.247:11124$雷蒙影视•IPV4『线路37』
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 http://111.162.207.136:8686/rtp/225.1.2.237:5002$雷蒙影视•IPV4『线路35』
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://111.113.88.237:2000/rtp/239.121.4.122:8008$雷蒙影视•IPV4『线路41』
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://36.46.98.107:8025/rtp/239.111.205.134:5140$雷蒙影视•IPV4『线路53』
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://36.46.98.19:8025/rtp/239.111.205.134:5140$雷蒙影视•IPV4『线路40』
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://106.5.78.180:4022/udp/239.252.220.237:5140$雷蒙影视•IPV4『线路43』
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://116.2.168.176:4010/rtp/232.0.0.182:1234$雷蒙影视•IPV4『线路35』
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://223.198.241.248:4000/rtp/239.253.64.251:5140$雷蒙影视•IPV4『线路47』
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 http://223.198.241.248:4000/rtp/239.253.64.126:5140$雷蒙影视•IPV4『线路51』
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://171.113.210.116:4022/rtp/239.69.1.247:11124$雷蒙影视•IPV4『线路37』
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://112.66.73.196:8188/rtp/239.253.64.126:5140$雷蒙影视•IPV4『线路41』
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://175.8.181.148:7878/udp/239.76.253.98:9000$雷蒙影视•IPV4『线路31』
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://112.66.73.196:8188/rtp/239.253.64.251:5140$雷蒙影视•IPV4『线路33』
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://122.189.103.197:8888/rtp/228.0.0.249:6108$雷蒙影视•IPV4『线路28』
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://175.8.181.148:7878/udp/239.76.253.230:9000$雷蒙影视•IPV4『线路39』
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202510281800384d72c39c870d4f20a47a98093890f15a&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251028180038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.83&SecurityKey=20251028180038&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f34043ef1c2b047a45fdf27804063a2c&ddCalcu=cf23ea42303640034e0f817c22fbd0f4574a$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=20251029060030a71dc880d09045529e1895cdd4e33c2b&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251029060030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.88&SecurityKey=20251029060030&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d0a1670116073331ff0c981e69dae6a5&ddCalcu=5da0e6a2e13a60d79061e1168097c303f3f1$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 https://jzb.wwkejishe.top/?id=594$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://183.220.107.138:4022/rtp/239.11.0.107:5140$雷蒙影视•IPV4『线路40』
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://112.66.73.196:8188/rtp/239.253.64.67:5140$雷蒙影视•IPV4『线路56』
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://114.254.37.115:18888/rtp/239.3.1.151:8144$雷蒙影视•IPV4『线路69』
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://120.40.57.132:1000/rtp/239.61.3.9:9572$雷蒙影视•IPV4『线路57』
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://175.8.181.148:7878/udp/239.76.245.238:1234$雷蒙影视•IPV4『线路68』
+http://171.113.210.116:4022/rtp/239.69.1.152:10548$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://111.162.207.136:8686/rtp/225.1.2.52:5002$雷蒙影视•IPV4『线路60』
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://111.226.232.107:10010/rtp/239.254.201.120:8144$雷蒙影视•IPV4『线路51』
+http://115.58.141.236:4000/rtp/225.1.4.226:2506$雷蒙影视•IPV4『线路45』
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://175.8.181.148:7878/udp/239.76.252.238:9000$雷蒙影视•IPV4『线路54』
+http://114.100.195.213:4022/rtp/238.1.78.178:7296$雷蒙影视•IPV4『线路65』
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+http://111.113.88.237:2000/rtp/239.121.4.61:8340$雷蒙影视•IPV4『线路65』
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+http://36.46.98.19:8025/rtp/239.112.205.211:5140$雷蒙影视•IPV4『线路64』
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+http://61.159.135.223:18000/rtp/238.255.2.137:5999$雷蒙影视•IPV4『线路62』
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+http://36.46.98.107:8025/rtp/239.112.205.211:5140$雷蒙影视•IPV4『线路80』
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="央视频道",CETV-1
 https://migu.188766.xyz/$订阅源
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="央视频道",CETV-1
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=202510281800459a264177ba714b51bc49fc7bb6f44ec2&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251028180045&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.83&SecurityKey=20251028180045&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3a04fe6136dcb3672a6d86b64dc2fa5e&ddCalcu=e35aea02f432f0ced64163b66d8cdb63a627$订阅源
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="数字频道",文化精品
-http://218.8.87.96:4000/rtp/229.58.190.189:5000$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2025102906003888f39e6d6652482482579efb337b7225&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251029060038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.88&SecurityKey=20251029060038&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4963b52ae27c9fb114c91a2b7c276e61&ddCalcu=1469ee626337b025c27abe22a71c99cf4b11$订阅源
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="数字频道",文化精品
 http://sh.lnott.top:880/dx104.m3u8$订阅源
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="数字频道",文化精品
+http://218.8.87.96:4000/rtp/229.58.190.189:5000$订阅源
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="数字频道",文化精品
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gqdqmY&tk=ylHxBjGGQBPx$订阅源
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="数字频道",央视台球
 http://ymz.stkeyu.top:8303/rtp/239.253.43.21:5146$订阅源
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+http://sh.lnott.top:880/dx73.m3u8$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
 http://218.8.87.96:4000/rtp/229.58.190.190:5000$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+http://120.238.94.10:9901/tsfile/live/1089_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+http://dassby.qqff.top:99/live/风云音乐/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+rtsp://115.153.254.81/PLTV/88888888/224/3221226994/86128897.smil$订阅源
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="数字频道",风云音乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BZoL0v&tk=ylHxBjGGQBPx$订阅源
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="数字频道",第一剧场
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="数字频道",风云剧场
+http://wmh.wmh.ink:6633/rtp/239.253.43.16:5146$订阅源
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="数字频道",风云剧场
 http://sh.lnott.top:880/dx94.m3u8$订阅源
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="数字频道",风云剧场
@@ -392,9 +410,7 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xx
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="数字频道",风云剧场
 rtsp://115.153.254.81/PLTV/88888888/224/3221226963/86128874.smil$订阅源
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="数字频道",风云剧场
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zj0dNT&tk=ylHxBjGGQBPx$订阅源
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="数字频道",风云剧场
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0GqrSk&tk=i4rWTcLCg6ou$订阅源
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=My415p&tk=smNdz6qOecOl$订阅源
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="数字频道",怀旧剧场
 http://ymz.stkeyu.top:8303/rtp/239.253.43.5:5146$订阅源
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="数字频道",女性时尚
@@ -430,6 +446,8 @@ http://ymz.stkeyu.top:8303/rtp/239.253.43.9:5146$订阅源
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
 http://sh.lnott.top:880/dx81.m3u8$订阅源
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
+http://218.8.87.96:4000/rtp/229.58.190.29:5000$订阅源
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
 http://120.238.94.10:9901/tsfile/live/1096_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
 rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil$订阅源
@@ -439,36 +457,38 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil$订阅源
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil$订阅源
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
 rtsp://115.153.254.81/PLTV/88888888/224/3221227004/86132185.smil$订阅源
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wAFzoo&tk=ylHxBjGGQBPx$订阅源
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="数字频道",兵器科技
-http://218.8.87.96:4000/rtp/229.58.190.29:5000$订阅源
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="数字频道",音乐现场
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="数字频道",游戏风云
+https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082$订阅源
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="数字频道",游戏风云
+https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0$订阅源
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="数字频道",游戏风云
+rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil$订阅源
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="数字频道",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="数字频道",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐之声.png" group-title="数字频道",音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20251028180040bc39cfda041a4317b7b9c46673a99239&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3313cac2fdb0df3370d65966c920aea3&ddCalcu=33a3ee12a380c02a9cc26f6d9b506ddf0373$订阅源
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://111.162.207.136:8686/rtp/225.1.1.116:5002$雷蒙影视•IPV4『线路109』
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://223.167.245.20:8001/rtp/239.45.3.230:5140$雷蒙影视•IPV4『线路95』
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://183.220.107.138:4022/rtp/239.11.0.115:5140$雷蒙影视•IPV4『线路88』
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://114.100.195.213:4022/rtp/238.1.78.161:7160$雷蒙影视•IPV4『线路118』
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://120.40.57.132:1000/rtp/239.61.2.33:8192$雷蒙影视•IPV4『线路105』
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://115.58.141.236:4000/rtp/225.1.4.166:1207$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://171.113.210.116:4022/rtp/239.254.96.140:8914$雷蒙影视•IPV4『线路112』
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://114.107.44.15:8188/rtp/238.1.78.161:7160$雷蒙影视•IPV4『线路99』
+http://111.162.207.136:8686/rtp/225.1.1.116:5002$雷蒙影视•IPV4『线路109』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://115.58.141.236:4000/rtp/225.1.4.166:1207$雷蒙影视•IPV4『线路94』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://114.100.195.213:4022/rtp/238.1.78.161:7160$雷蒙影视•IPV4『线路118』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://111.113.88.237:2000/rtp/239.121.4.118:8690$雷蒙影视•IPV4『线路113』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://36.46.98.19:8025/rtp/239.112.205.66:5140$雷蒙影视•IPV4『线路112』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://61.159.135.223:18000/rtp/238.255.2.59:5999$雷蒙影视•IPV4『线路115』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://106.5.78.180:4022/udp/239.252.219.213:5140$雷蒙影视•IPV4『线路116』
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://1.58.243.42:4001/rtp/229.58.190.53:5000$雷蒙影视•IPV4『线路128』
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="卫视频道",香港卫视
 rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="卫视频道",香港卫视
@@ -476,469 +496,469 @@ http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="卫视频道",香港卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZpLIb4&tk=ylHxBjGGQBPx$订阅源
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://221.13.235.200:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路143』
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://111.162.207.136:8686/rtp/225.1.1.112:5002$雷蒙影视•IPV4『线路114』
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://117.176.215.210:24088/rtp/239.11.0.70:5140$雷蒙影视•IPV4『线路76』
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://144.255.32.94:8288/udp/239.21.1.90:5002$雷蒙影视•IPV4『线路113』
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://120.40.57.132:1000/rtp/239.61.2.29:8168$雷蒙影视•IPV4『线路109』
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://114.254.37.115:18888/rtp/239.3.1.137:8036$雷蒙影视•IPV4『线路124』
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://114.107.44.15:8188/rtp/238.1.78.164:7184$雷蒙影视•IPV4『线路104』
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://106.116.242.179:9999/rtp/239.254.200.53:8036$雷蒙影视•IPV4『线路119』
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://112.66.92.80:8188/rtp/239.253.64.206:5140$雷蒙影视•IPV4『线路135』
+http://115.58.141.236:4000/rtp/225.1.4.84:1113$雷蒙影视•IPV4『线路97』
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://114.100.195.213:4022/rtp/238.1.78.164:7184$雷蒙影视•IPV4『线路120』
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://60.163.19.174:8188/udp/233.50.201.100:5140$雷蒙影视•IPV4『线路106』
+http://117.176.215.210:24088/rtp/239.11.0.70:5140$雷蒙影视•IPV4『线路76』
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://36.46.98.19:8025/rtp/239.112.205.64:5140$雷蒙影视•IPV4『线路116』
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://111.113.88.237:2000/rtp/239.121.4.116:8678$雷蒙影视•IPV4『线路117』
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://223.198.241.248:4000/rtp/239.253.64.206:5140$雷蒙影视•IPV4『线路125』
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://61.159.135.223:18000/rtp/238.255.2.100:5999$雷蒙影视•IPV4『线路117』
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://36.46.98.107:8025/rtp/239.112.205.64:5140$雷蒙影视•IPV4『线路133』
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://221.13.235.200:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路145』
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://175.8.181.148:7878/udp/239.76.253.100:9000$雷蒙影视•IPV4『线路119』
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://111.162.207.136:8686/rtp/225.1.1.114:5002$雷蒙影视•IPV4『线路110』
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://171.113.210.116:4022/rtp/239.254.96.139:8908$雷蒙影视•IPV4『线路113』
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://112.66.73.196:8188/rtp/239.253.64.114:5140$雷蒙影视•IPV4『线路105』
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://144.255.32.94:8288/udp/239.21.1.158:5002$雷蒙影视•IPV4『线路109』
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://120.40.57.132:1000/rtp/239.61.2.31:8180$雷蒙影视•IPV4『线路106』
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://114.107.44.15:8188/rtp/238.1.78.160:7152$雷蒙影视•IPV4『线路100』
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://114.100.195.213:4022/rtp/238.1.78.160:7152$雷蒙影视•IPV4『线路115』
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://112.66.92.80:8188/rtp/239.253.64.114:5140$雷蒙影视•IPV4『线路141』
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://111.226.232.107:10010/rtp/239.254.200.48:8012$雷蒙影视•IPV4『线路100』
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://112.109.206.113:9999/rtp/239.255.40.43:8208$雷蒙影视•IPV4『线路78』
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://60.163.19.174:8188/udp/233.50.201.103:5140$雷蒙影视•IPV4『线路102』
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://114.107.44.15:8188/rtp/238.1.78.160:7152$雷蒙影视•IPV4『线路100』
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://171.113.210.116:4022/rtp/239.254.96.139:8908$雷蒙影视•IPV4『线路113』
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://175.8.181.148:7878/udp/239.76.253.101:9000$雷蒙影视•IPV4『线路118』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://221.13.235.200:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路140』
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://171.113.210.116:4022/rtp/239.254.96.141:8920$雷蒙影视•IPV4『线路113』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://111.162.207.136:8686/rtp/225.1.1.113:5002$雷蒙影视•IPV4『线路110』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://183.220.107.138:4022/rtp/239.11.0.121:5140$雷蒙影视•IPV4『线路80』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://112.66.73.196:8188/rtp/239.253.64.204:5140$雷蒙影视•IPV4『线路106』
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://122.189.103.197:8888/rtp/228.0.0.63:6108$雷蒙影视•IPV4『线路94』
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://171.113.210.116:4022/rtp/239.254.96.141:8920$雷蒙影视•IPV4『线路113』
+http://111.226.232.107:10010/rtp/239.254.200.47:8024$雷蒙影视•IPV4『线路101』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://114.100.195.213:4022/rtp/238.1.78.162:7168$雷蒙影视•IPV4『线路116』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://112.66.92.80:8188/rtp/239.253.64.204:5140$雷蒙影视•IPV4『线路132』
+http://60.163.19.174:8188/udp/233.50.201.107:5140$雷蒙影视•IPV4『线路103』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://114.107.44.15:8188/rtp/238.1.78.162:7168$雷蒙影视•IPV4『线路100』
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://120.40.57.132:1000/rtp/239.61.2.32:8186$雷蒙影视•IPV4『线路107』
+http://115.171.216.45:4000/rtp/225.1.8.21:8002$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=2025102818004036f0802816d84fa6a055f3a689f6507b&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2d20942b64b19d5480e92d989082e5ef&ddCalcu=f2ede522e0729084029b8694db2199ed0584$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=202510290600339fafa65aa9c3495db6ed2376da177cbb&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2400284ecd6e45048e865c1f1a9e4a08&ddCalcu=8204ea02407e2098a41efc1dc65e6485e084$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://jzb.wwkejishe.top/?id=604$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://101.66.199.134:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路132』
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://111.162.207.136:8686/rtp/225.1.1.147:5002$雷蒙影视•IPV4『线路106』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://223.167.245.20:8001/rtp/239.45.3.239:5140$雷蒙影视•IPV4『线路93』
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://120.40.57.132:1000/rtp/239.61.2.120:8714$雷蒙影视•IPV4『线路104』
+http://144.255.32.94:8288/udp/239.21.1.163:5002$雷蒙影视•IPV4『线路107』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://115.58.141.236:4000/rtp/225.1.4.89:1118$雷蒙影视•IPV4『线路92』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://114.254.37.115:18888/rtp/239.3.1.138:8044$雷蒙影视•IPV4『线路116』
+http://223.167.245.20:8001/rtp/239.45.3.239:5140$雷蒙影视•IPV4『线路93』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://114.100.195.213:4022/rtp/238.1.78.168:7216$雷蒙影视•IPV4『线路112』
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://175.8.181.148:7878/udp/239.76.253.193:9000$雷蒙影视•IPV4『线路101』
+http://171.113.210.116:4022/rtp/239.254.96.115:8664$雷蒙影视•IPV4『线路109』
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://223.167.245.20:8001/rtp/239.45.3.232:5140$雷蒙影视•IPV4『线路87』
+http://111.162.207.136:8686/rtp/225.1.1.115:5002$雷蒙影视•IPV4『线路102』
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://101.66.199.134:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路127』
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://114.100.195.213:4022/rtp/238.1.78.159:7144$雷蒙影视•IPV4『线路107』
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://112.109.206.113:9999/rtp/239.255.40.44:8208$雷蒙影视•IPV4『线路64』
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://171.113.210.116:4022/rtp/239.254.96.138:8902$雷蒙影视•IPV4『线路105』
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://223.167.245.20:8001/rtp/239.45.3.232:5140$雷蒙影视•IPV4『线路87』
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://60.163.19.174:8188/udp/233.50.201.115:5140$雷蒙影视•IPV4『线路94』
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://114.107.44.15:8188/rtp/238.1.78.159:7144$雷蒙影视•IPV4『线路92』
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://120.40.57.132:1000/rtp/239.61.2.34:8198$雷蒙影视•IPV4『线路97』
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://114.254.37.115:18888/rtp/239.3.1.133:8016$雷蒙影视•IPV4『线路112』
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://175.8.181.148:7878/udp/239.76.253.200:9000$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://223.198.241.248:4000/rtp/239.253.64.205:5140$雷蒙影视•IPV4『线路113』
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://112.109.206.113:9999/rtp/239.255.40.44:8208$雷蒙影视•IPV4『线路64』
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://112.66.73.196:8188/rtp/239.253.64.205:5140$雷蒙影视•IPV4『线路96』
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://60.163.19.174:8188/udp/233.50.201.115:5140$雷蒙影视•IPV4『线路94』
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://171.13.165.17:8888/hls/22/index.m3u8$订阅源
+http://114.254.37.115:18888/rtp/239.3.1.133:8016$雷蒙影视•IPV4『线路112』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://114.100.195.213:4022/rtp/238.1.79.27:4328$雷蒙影视•IPV4『线路107』
+http://221.13.235.200:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路128』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://111.162.207.136:8686/rtp/225.1.1.127:5002$雷蒙影视•IPV4『线路100』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://114.107.44.15:8188/rtp/238.1.79.27:4328$雷蒙影视•IPV4『线路90』
+http://171.113.210.116:4022/rtp/239.69.1.70:10060$雷蒙影视•IPV4『线路103』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://120.40.57.132:1000/rtp/239.61.2.248:9476$雷蒙影视•IPV4『线路98』
+http://111.113.88.237:2000/rtp/239.121.4.161:8950$雷蒙影视•IPV4『线路105』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://144.255.32.94:8288/udp/239.21.1.159:5002$雷蒙影视•IPV4『线路101』
+http://114.100.195.213:4022/rtp/238.1.79.27:4328$雷蒙影视•IPV4『线路107』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://114.100.195.213:4022/rtp/238.1.78.150:7072$雷蒙影视•IPV4『线路112』
+http://36.46.98.19:8025/rtp/239.112.205.72:5140$雷蒙影视•IPV4『线路104』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://175.8.181.148:7878/udp/239.76.252.196:9000$雷蒙影视•IPV4『线路95』
+http://36.46.98.107:8025/rtp/239.112.205.72:5140$雷蒙影视•IPV4『线路120』
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://175.8.181.148:7878/udp/239.76.245.196:1234$雷蒙影视•IPV4『线路110』
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://27.41.245.32:801/hls/59/index.m3u8$订阅源
+http://27.184.65.71:58888/rtp/239.254.200.163:6000$雷蒙影视•IPV4『线路124』
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://1.58.246.238:4001/rtp/229.58.190.162:5000$雷蒙影视•IPV4『线路111』
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$LR•IPV4『线路393』
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://27.41.245.32:801/hls/59/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://111.162.207.136:8686/rtp/225.1.1.155:5002$雷蒙影视•IPV4『线路104』
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://114.107.44.15:8188/rtp/238.1.78.31:6176$雷蒙影视•IPV4『线路94』
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://183.220.107.138:4022/rtp/239.11.0.116:5140$雷蒙影视•IPV4『线路67』
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://120.40.57.132:1000/rtp/239.61.2.250:9488$雷蒙影视•IPV4『线路99』
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://114.100.195.213:4022/rtp/238.1.78.31:6176$雷蒙影视•IPV4『线路109』
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://171.113.210.116:4022/rtp/239.69.1.149:10530$雷蒙影视•IPV4『线路107』
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://175.8.181.148:7878/udp/239.76.246.92:1234$雷蒙影视•IPV4『线路111』
+http://114.100.195.213:4022/rtp/238.1.78.31:6176$雷蒙影视•IPV4『线路109』
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://223.198.241.248:4000/rtp/239.253.64.55:5140$雷蒙影视•IPV4『线路115』
+http://101.66.199.134:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路130』
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://61.159.135.223:18000/rtp/238.255.2.78:5999$雷蒙影视•IPV4『线路106』
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://111.113.88.237:2000/rtp/239.121.4.36:8190$雷蒙影视•IPV4『线路108』
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://36.46.98.19:8025/rtp/239.112.205.179:5140$雷蒙影视•IPV4『线路107』
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://183.220.107.138:4022/rtp/239.11.0.116:5140$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20251028180040902305559055446f99efe948417430df&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e9d2ed9e230cead34071a87093488e96&ddCalcu=6e99eed28218e04d399e027380ac1e7a0d43$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=202510290600329abd54992f364215b860b11a616ad9f0&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251029060032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.88&SecurityKey=20251029060032&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=23a096459a24d7c6fa5ca281fdede5e2&ddCalcu=22e3e5a2e01d90e6d4f5198a22a4cd57acf6$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://221.13.235.200:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路141』
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://111.162.207.136:8686/rtp/225.1.2.31:5002$雷蒙影视•IPV4『线路110』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://112.66.92.80:8188/rtp/239.253.64.201:5140$雷蒙影视•IPV4『线路133』
+http://101.66.199.134:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路138』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://120.40.57.132:1000/rtp/239.61.2.28:8162$雷蒙影视•IPV4『线路107』
+http://111.113.88.237:2000/rtp/239.121.4.109:8636$雷蒙影视•IPV4『线路115』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://122.189.103.197:8888/rtp/228.0.0.62:6108$雷蒙影视•IPV4『线路95』
+http://114.100.195.213:4022/rtp/238.1.78.163:7176$雷蒙影视•IPV4『线路117』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://114.254.37.115:18888/rtp/239.3.1.136:8032$雷蒙影视•IPV4『线路120』
+http://36.46.98.19:8025/rtp/239.112.205.61:5140$雷蒙影视•IPV4『线路114』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://115.58.141.236:4000/rtp/225.1.4.85:1114$雷蒙影视•IPV4『线路96』
+http://101.66.194.135:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路139』
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://175.8.181.148:7878/udp/239.76.246.186:1234$雷蒙影视•IPV4『线路119』
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://144.255.32.94:8288/udp/239.21.1.111:5002$雷蒙影视•IPV4『线路112』
+http://1.58.246.238:4001/rtp/229.58.190.54:5000$雷蒙影视•IPV4『线路121』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://120.40.57.132:1000/rtp/239.61.2.132:8708$雷蒙影视•IPV4『线路88』
+http://171.113.210.116:4022/rtp/239.69.1.108:10286$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://114.107.44.15:8188/rtp/238.1.78.22:6104$雷蒙影视•IPV4『线路82』
+http://101.66.199.134:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路118』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://114.100.195.213:4022/rtp/238.1.78.22:6104$雷蒙影视•IPV4『线路98』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://115.58.141.236:4000/rtp/225.1.4.228:1274$雷蒙影视•IPV4『线路76』
+http://111.113.88.237:2000/rtp/239.121.4.102:9226$雷蒙影视•IPV4『线路96』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://114.254.37.115:18888/rtp/239.3.1.156:8148$雷蒙影视•IPV4『线路100』
+http://1.58.246.238:4001/rtp/229.58.190.168:5000$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://112.66.73.196:8188/rtp/239.253.64.66:5140$雷蒙影视•IPV4『线路87』
+http://36.46.98.19:8025/rtp/239.112.205.182:5140$雷蒙影视•IPV4『线路95』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://223.198.241.248:4000/rtp/239.253.64.66:5140$雷蒙影视•IPV4『线路104』
+http://61.159.135.223:18000/rtp/238.255.2.103:5999$雷蒙影视•IPV4『线路95』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://171.113.210.116:4022/rtp/239.69.1.108:10286$雷蒙影视•IPV4『线路94』
+http://106.5.78.180:4022/udp/239.252.220.82:5140$雷蒙影视•IPV4『线路99』
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://175.8.181.148:7878/udp/239.76.252.190:9000$雷蒙影视•IPV4『线路85』
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://144.255.32.94:8288/udp/239.21.2.22:5002$雷蒙影视•IPV4『线路69』
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://222.218.122.56:8188/udp/239.81.0.207:4056$雷蒙影视•IPV4『线路54』
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://120.40.57.132:1000/rtp/239.61.2.225:9338$雷蒙影视•IPV4『线路58』
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://175.8.181.148:7878/udp/239.76.246.94:1234$雷蒙影视•IPV4『线路71』
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://175.8.181.148:7878/udp/239.76.253.94:9000$雷蒙影视•IPV4『线路54』
+http://1.58.243.42:4000/rtp/229.58.190.168:5000$雷蒙影视•IPV4『线路117』
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://114.100.195.213:4022/rtp/238.1.79.36:4400$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://114.107.44.15:8188/rtp/238.1.79.36:4400$雷蒙影视•IPV4『线路59』
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://61.159.135.223:18000/rtp/238.255.2.73:5999$雷蒙影视•IPV4『线路69』
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://1.58.243.42:4001/rtp/229.58.190.185:5000$雷蒙影视•IPV4『线路78』
+http://106.5.78.180:4022/udp/239.252.219.140:5140$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://112.66.92.80:8188/rtp/239.253.64.140:5140$雷蒙影视•IPV4『线路87』
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://111.162.207.136:8686/rtp/225.1.2.81:5002$雷蒙影视•IPV4『线路99』
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://183.220.107.138:4022/rtp/239.11.0.48:5140$雷蒙影视•IPV4『线路78』
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://120.40.57.132:1000/rtp/239.61.2.48:8282$雷蒙影视•IPV4『线路97』
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://111.226.232.107:10010/rtp/239.254.200.80:8300$雷蒙影视•IPV4『线路90』
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://1.58.246.238:4000/rtp/229.58.190.31:5000$雷蒙影视•IPV4『线路93』
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://1.58.246.238:4001/rtp/229.58.190.31:5000$雷蒙影视•IPV4『线路103』
+http://175.8.181.148:7878/udp/239.76.246.94:1234$雷蒙影视•IPV4『线路71』
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://114.107.44.15:8188/rtp/238.1.79.36:4400$雷蒙影视•IPV4『线路59』
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://144.255.32.94:8288/udp/239.21.2.22:5002$雷蒙影视•IPV4『线路69』
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://180.165.18.51:9898/rtp/239.45.1.234:5140$雷蒙影视•IPV4『线路70』
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://116.2.168.176:4010/rtp/232.0.0.50:1234$雷蒙影视•IPV4『线路60』
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://1.58.243.42:4000/rtp/229.58.190.185:5000$雷蒙影视•IPV4『线路90』
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://36.46.98.107:8025/rtp/239.112.205.48:5140$雷蒙影视•IPV4『线路79』
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://171.113.210.116:4022/rtp/239.69.1.191:10788$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://1.58.243.42:4001/rtp/229.58.190.31:5000$雷蒙影视•IPV4『线路106』
+http://111.162.207.136:8686/rtp/225.1.2.81:5002$雷蒙影视•IPV4『线路99』
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://101.66.199.134:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路118』
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://1.58.246.238:4001/rtp/229.58.190.31:5000$雷蒙影视•IPV4『线路103』
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://27.184.65.71:58888/rtp/239.254.200.80:8300$雷蒙影视•IPV4『线路115』
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://106.5.78.180:4022/udp/239.252.219.183:5140$雷蒙影视•IPV4『线路105』
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://183.220.107.138:4022/rtp/239.11.0.48:5140$雷蒙影视•IPV4『线路78』
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://171.104.106.97:50112/udp/239.81.0.107:4056$雷蒙影视•IPV4『线路100』
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://1.58.243.42:4001/rtp/229.58.190.31:5000$雷蒙影视•IPV4『线路106』
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://1.58.243.42:4000/rtp/229.58.190.31:5000$雷蒙影视•IPV4『线路117』
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://27.41.245.32:801/hls/35/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://171.13.165.17:8888/hls/25/index.m3u8$订阅源
+http://101.66.199.134:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路120』
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://111.162.207.136:8686/rtp/225.1.2.28:5002$雷蒙影视•IPV4『线路100』
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://114.107.44.15:8188/rtp/238.1.78.244:7824$雷蒙影视•IPV4『线路90』
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://120.40.57.132:1000/rtp/239.61.2.159:8942$雷蒙影视•IPV4『线路90』
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://114.254.37.115:18888/rtp/239.3.1.149:8076$雷蒙影视•IPV4『线路109』
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://175.8.181.148:7878/udp/239.76.245.198:1234$雷蒙影视•IPV4『线路102』
+http://171.113.210.116:4022/rtp/239.69.1.150:10536$雷蒙影视•IPV4『线路103』
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://114.100.195.213:4022/rtp/238.1.78.244:7824$雷蒙影视•IPV4『线路100』
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://175.8.181.148:7878/udp/239.76.252.198:9000$雷蒙影视•IPV4『线路87』
+http://111.113.88.237:2000/rtp/239.121.4.65:8364$雷蒙影视•IPV4『线路98』
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://111.226.232.107:10010/rtp/239.254.201.20:6315$雷蒙影视•IPV4『线路86』
+http://1.58.246.238:4001/rtp/229.58.190.100:5000$雷蒙影视•IPV4『线路104』
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://36.46.98.19:8025/rtp/239.112.205.178:5140$雷蒙影视•IPV4『线路97』
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://106.5.78.180:4022/udp/239.252.220.190:5140$雷蒙影视•IPV4『线路101』
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://171.104.106.97:50112/udp/239.81.0.95:4056$雷蒙影视•IPV4『线路97』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251028180040f42d1e105767487aaa2053170875e5e8&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1d504df420936cad77d38a97b9c556bb&ddCalcu=b1bde652507540cd9fb47290a98336dc7a7d$订阅源
+http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251029060033b882ab36c32944aea1697058da2f4b6f&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7d1e363d25e4f7eff4caa52af0284b72&ddCalcu=277deb124e78302603fda2255ea4afc74eff$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://223.167.245.20:8001/rtp/239.45.1.81:5140$雷蒙影视•IPV4『线路78』
+http://61.159.135.223:18000/rtp/238.255.2.58:5999$雷蒙影视•IPV4『线路91』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://114.107.44.15:8188/rtp/238.1.79.49:4504$雷蒙影视•IPV4『线路81』
+http://114.100.195.213:4022/rtp/238.1.79.49:4504$雷蒙影视•IPV4『线路93』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://144.255.32.94:8288/udp/239.21.2.14:5002$雷蒙影视•IPV4『线路88』
+http://106.5.78.180:4022/udp/239.252.219.178:5140$雷蒙影视•IPV4『线路96』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://115.58.141.236:4000/rtp/225.1.4.195:1310$雷蒙影视•IPV4『线路75』
+http://1.58.243.42:4001/rtp/229.58.190.141:5000$雷蒙影视•IPV4『线路97』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://112.66.73.196:8188/rtp/239.253.64.253:5140$雷蒙影视•IPV4『线路88』
+http://1.58.243.42:4000/rtp/229.58.190.141:5000$雷蒙影视•IPV4『线路109』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://175.8.181.148:7878/udp/239.76.253.203:9000$雷蒙影视•IPV4『线路87』
+http://116.2.168.176:4010/rtp/232.0.0.26:1234$雷蒙影视•IPV4『线路91』
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
+http://180.165.18.51:9898/rtp/239.45.1.81:5140$雷蒙影视•IPV4『线路92』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://112.109.206.113:9999/rtp/239.255.40.23:8208$雷蒙影视•IPV4『线路62』
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://120.40.57.132:1000/rtp/239.61.2.42:8246$雷蒙影视•IPV4『线路89』
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://114.100.195.213:4022/rtp/238.1.79.49:4504$雷蒙影视•IPV4『线路93』
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://171.13.165.17:8888/hls/26/index.m3u8$订阅源
+http://171.104.106.97:50112/udp/239.81.0.48:4056$雷蒙影视•IPV4『线路92』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://223.167.245.20:8001/rtp/239.45.1.44:5140$雷蒙影视•IPV4『线路86』
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://111.162.207.136:8686/rtp/225.1.2.27:5002$雷蒙影视•IPV4『线路99』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://114.107.44.15:8188/rtp/238.1.78.245:7832$雷蒙影视•IPV4『线路89』
+http://114.100.195.213:4022/rtp/238.1.78.245:7832$雷蒙影视•IPV4『线路105』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://112.66.73.196:8188/rtp/239.253.64.210:5140$雷蒙影视•IPV4『线路95』
+http://111.113.88.237:2000/rtp/239.121.4.76:8430$雷蒙影视•IPV4『线路103』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://120.40.57.132:1000/rtp/239.61.2.57:8336$雷蒙影视•IPV4『线路96』
+http://101.66.199.134:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路125』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://114.254.37.115:18888/rtp/239.3.1.148:8072$雷蒙影视•IPV4『线路108』
+http://36.46.98.19:8025/rtp/239.112.205.200:5140$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://122.189.103.197:8888/rtp/228.0.0.168:7168$雷蒙影视•IPV4『线路83』
+http://61.159.135.223:18000/rtp/238.255.2.77:5999$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://112.66.92.80:8188/rtp/239.253.64.210:5140$雷蒙影视•IPV4『线路120』
+http://36.46.98.107:8025/rtp/239.112.205.200:5140$雷蒙影视•IPV4『线路117』
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://1.58.246.238:4001/rtp/229.58.190.209:5000$雷蒙影视•IPV4『线路109』
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://1.58.243.42:4000/rtp/229.58.190.209:5000$雷蒙影视•IPV4『线路123』
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3b692e5f0b2ec3573e547953d1f51aac&wsTime=1761660017$订阅源
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=34895b3857ab4d1f01b38daed5c0a389&wsTime=1761703208$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202510281800409a02842828704c738ee18fd9de548fa6&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=aee0aa59e7799d719a1132ed29a4a6b4&ddCalcu=4abee6e2a004a0aa9529dee72739191da791$订阅源
+http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20251029060033d108e75058fd4d38a7451b0c3db16974&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f96d98b70b44d8b645abfffd667e6caa&ddCalcu=afa9ec626d0e90786b67d0fbf4f4bda85b46$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://221.13.235.200:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路132』
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://101.66.199.134:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路129』
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://171.113.210.116:4022/rtp/239.69.1.168:10644$雷蒙影视•IPV4『线路107』
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://114.100.195.213:4022/rtp/238.1.79.65:4632$雷蒙影视•IPV4『线路110』
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://106.5.78.180:4022/udp/239.252.220.189:5140$雷蒙影视•IPV4『线路112』
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://36.46.98.19:8025/rtp/239.112.205.180:5140$雷蒙影视•IPV4『线路109』
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://111.162.207.136:8686/rtp/225.1.2.61:5002$雷蒙影视•IPV4『线路104』
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://223.167.245.20:8001/rtp/239.45.0.3:5140$雷蒙影视•IPV4『线路91』
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://115.58.141.236:4000/rtp/225.1.4.98:1127$雷蒙影视•IPV4『线路87』
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://60.163.19.174:8188/udp/233.50.201.144:5140$雷蒙影视•IPV4『线路97』
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://144.255.32.94:8288/udp/239.21.2.37:5002$雷蒙影视•IPV4『线路103』
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://112.109.206.113:9999/rtp/239.255.40.9:8208$雷蒙影视•IPV4『线路81』
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://120.40.57.132:1000/rtp/239.61.2.59:8348$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251028180040e3c1d7bc733b44bbbae3d9f424b87ad1&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96619f55f3a2e5787073e77f8403d0d0&ddCalcu=09d6e062d173900f4585ff737ae23e750778$订阅源
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://27.41.245.32:801/hls/40/index.m3u8$订阅源
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202510290600331d3b1a433eb945319bc125bd9d4d5940&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=703e2df7c13962d8022d40e13b0ff886&ddCalcu=6780e832fe7f200dbf371ce10349d6222d08$订阅源
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://27.41.245.32:801/hls/40/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://111.162.207.136:8686/rtp/225.1.2.26:5002$雷蒙影视•IPV4『线路86』
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://183.220.107.138:4022/rtp/239.11.0.35:5140$雷蒙影视•IPV4『线路62』
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://112.66.73.196:8188/rtp/239.253.64.57:5140$雷蒙影视•IPV4『线路84』
+http://171.113.210.116:4022/rtp/239.69.1.212:10914$雷蒙影视•IPV4『线路89』
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://114.100.195.213:4022/rtp/238.1.79.48:4496$雷蒙影视•IPV4『线路92』
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://120.40.57.132:1000/rtp/239.61.2.223:9326$雷蒙影视•IPV4『线路85』
+http://111.113.88.237:2000/rtp/239.121.4.43:8232$雷蒙影视•IPV4『线路93』
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://112.109.206.113:9999/rtp/239.255.40.17:8208$雷蒙影视•IPV4『线路58』
+http://101.66.199.134:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路111』
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://175.8.181.148:7878/udp/239.76.253.201:9000$雷蒙影视•IPV4『线路83』
+http://61.159.135.223:18000/rtp/238.255.2.95:5999$雷蒙影视•IPV4『线路90』
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://1.58.246.238:4001/rtp/229.58.190.214:5000$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=2025102818004036030d2aaa8243bb992af92d54e48698&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c2a06c87514d54e7270a114bcf88fcbb&ddCalcu=bcb2eca2f038608cf8c7b541141da5047e27$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20251029060032af6cf4ff223e43b5b3029b0e8b759044&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251029060032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.88&SecurityKey=20251029060032&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=85f8f67b7382ba71d3ece7a4e9471800&ddCalcu=0805e8f21837f04697eb47a378e2cbea37d1$订阅源
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://120.40.57.132:1000/rtp/239.61.2.30:8174$雷蒙影视•IPV4『线路115』
+http://221.13.235.200:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路150』
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://171.113.210.116:4022/rtp/239.254.96.144:8938$雷蒙影视•IPV4『线路121』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://111.162.207.136:8686/rtp/225.1.1.126:5002$雷蒙影视•IPV4『线路118』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://183.220.107.138:4022/rtp/239.11.0.76:5140$雷蒙影视•IPV4『线路84』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://112.66.73.196:8188/rtp/239.253.64.202:5140$雷蒙影视•IPV4『线路114』
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://60.163.19.174:8188/udp/233.50.201.106:5140$雷蒙影视•IPV4『线路111』
+http://114.107.44.15:8188/rtp/238.1.78.165:7192$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://112.109.206.113:9999/rtp/239.255.40.42:8208$雷蒙影视•IPV4『线路91』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://114.100.195.213:4022/rtp/238.1.78.165:7192$雷蒙影视•IPV4『线路125』
+http://111.113.88.237:2000/rtp/239.121.4.115:8672$雷蒙影视•IPV4『线路122』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://114.107.44.15:8188/rtp/238.1.78.165:7192$雷蒙影视•IPV4『线路108』
+http://114.100.195.213:4022/rtp/238.1.78.165:7192$雷蒙影视•IPV4『线路125』
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://175.8.181.148:7878/udp/239.76.253.181:9000$雷蒙影视•IPV4『线路127』
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=202510281800400d07118536dc4874a0b3d721e00209a6&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1ed9ca765881c89d0bde7c93133ecfd8&ddCalcu=81deefd2c93ec03a37163598c871ecd8b90d$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20251029060033be103231e1bb4e12bcc4a62a97fd40e4&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1fb7266ad1b3c23d10428e0528ffe8ed&ddCalcu=d1efe8b2e73f20f6862a5d01eb832c42031d$订阅源
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 https://jzb.wwkejishe.top/?id=602$订阅源
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://27.41.245.32:801/hls/43/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$LR•IPV4『线路307』
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://27.41.245.32:801/hls/43/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://111.162.207.136:8686/rtp/225.1.2.29:5002$雷蒙影视•IPV4『线路105』
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://114.100.195.213:4022/rtp/238.1.78.26:6136$雷蒙影视•IPV4『线路112』
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://114.107.44.15:8188/rtp/238.1.78.26:6136$雷蒙影视•IPV4『线路95』
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://144.255.32.94:8288/udp/239.21.1.167:5002$雷蒙影视•IPV4『线路106』
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://111.226.232.107:10010/rtp/239.254.201.12:6290$雷蒙影视•IPV4『线路96』
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://171.113.210.116:4022/rtp/239.69.1.126:10394$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://112.109.206.113:9999/rtp/239.255.40.18:8208$雷蒙影视•IPV4『线路69』
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://120.40.57.132:1000/rtp/239.61.2.182:9080$雷蒙影视•IPV4『线路102』
+http://60.163.19.174:8188/udp/233.50.201.145:5140$雷蒙影视•IPV4『线路98』
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20251028180041da13652f13de44b994b2471ad1f7af64&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251028180041&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.83&SecurityKey=20251028180041&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a8242995f313227e23f0d0b11fb0d9dd&ddCalcu=dad8e922d40020b9f9151fb301d302f2372e$订阅源
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://171.13.165.17:8888/hls/23/index.m3u8$订阅源
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20251029060034e26da78eec2540e7b7bba6b81440953a&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251029060034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.88&SecurityKey=20251029060034&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7e35ad5e0e14592bd3f7a45c68c157a0&ddCalcu=07aee7325501a0cd856ec05e41a475f932db$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8$LR•IPV4『线路290』
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://111.162.207.136:8686/rtp/225.1.1.154:5002$雷蒙影视•IPV4『线路104』
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://120.40.57.132:1000/rtp/239.61.2.181:9074$雷蒙影视•IPV4『线路100』
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://183.220.107.138:4022/rtp/239.11.0.118:5140$雷蒙影视•IPV4『线路66』
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://114.107.44.15:8188/rtp/238.1.78.21:6096$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://114.100.195.213:4022/rtp/238.1.78.21:6096$雷蒙影视•IPV4『线路110』
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://175.8.181.148:7878/udp/239.76.245.197:1234$雷蒙影视•IPV4『线路112』
+http://111.113.88.237:2000/rtp/239.121.4.163:8962$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://114.254.37.115:18888/rtp/239.3.1.210:8056$雷蒙影视•IPV4『线路114』
+http://111.226.232.107:10010/rtp/239.254.200.57:8056$雷蒙影视•IPV4『线路95』
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://171.113.210.116:4022/rtp/239.69.1.71:10066$雷蒙影视•IPV4『线路107』
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://101.66.199.134:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路131』
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://114.107.44.15:8188/rtp/238.1.78.21:6096$雷蒙影视•IPV4『线路94』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://114.107.44.15:8188/rtp/238.1.78.103:6696$雷蒙影视•IPV4『线路60』
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://36.46.98.19:8025/rtp/239.112.205.55:5140$雷蒙影视•IPV4『线路65』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://61.159.135.223:18000/rtp/238.255.2.53:5999$雷蒙影视•IPV4『线路69』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://114.100.195.213:4022/rtp/238.1.78.103:6696$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://112.66.73.196:8188/rtp/239.253.64.144:5140$雷蒙影视•IPV4『线路57』
+http://36.46.98.107:8025/rtp/239.112.205.55:5140$雷蒙影视•IPV4『线路76』
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://106.5.78.180:4022/rtp/239.252.219.48:5140$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://113.106.171.234:8899/rtp/239.20.0.153:2104$订阅源
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://1.58.243.42:4000/rtp/229.58.190.183:5000$雷蒙影视•IPV4『线路84』
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://223.198.241.248:4000/rtp/239.253.64.144:5140$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://120.40.57.132:1000/rtp/239.61.2.226:9344$雷蒙影视•IPV4『线路60』
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://116.2.168.176:4010/rtp/232.0.0.111:1234$雷蒙影视•IPV4『线路62』
+http://1.58.243.42:4000/rtp/229.58.190.183:5000$雷蒙影视•IPV4『线路84』
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://171.104.106.97:50112/udp/239.81.0.54:4056$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://120.40.57.132:1000/rtp/239.61.2.56:8330$雷蒙影视•IPV4『线路58』
+http://111.113.88.237:2000/rtp/239.121.4.94:8538$雷蒙影视•IPV4『线路64』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://61.159.135.223:18000/rtp/238.255.2.75:5999$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://sh.lnott.top:880/dx53.m3u8$订阅源
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://180.165.18.51:9898/rtp/239.45.1.213:5140$雷蒙影视•IPV4『线路69』
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://114.100.195.213:4022/rtp/238.1.78.109:6744$雷蒙影视•IPV4『线路70』
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://36.46.98.19:8025/rtp/239.112.205.49:5140$雷蒙影视•IPV4『线路63』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://114.107.44.15:8188/rtp/238.1.78.109:6744$雷蒙影视•IPV4『线路59』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://112.66.92.80:8188/rtp/239.253.64.89:5140$雷蒙影视•IPV4『线路79』
+http://36.46.98.107:8025/rtp/239.112.205.49:5140$雷蒙影视•IPV4『线路75』
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://223.198.241.248:4000/rtp/239.253.64.89:5140$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://1.58.243.42:4000/rtp/229.58.190.184:5000$雷蒙影视•IPV4『线路83』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://106.59.2.173:55555/rtp/239.200.200.60:8308$雷蒙影视•IPV4『线路60』
+http://116.2.168.176:4010/rtp/232.0.0.34:1234$雷蒙影视•IPV4『线路61』
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://112.66.73.196:8188/rtp/239.253.64.89:5140$雷蒙影视•IPV4『线路55』
+http://171.104.106.97:50112/udp/239.81.0.60:4056$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251028180040520f3b3dc48d42188a322dfda99a214e&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=343b387af0b0055d214a65c052cc82bb&ddCalcu=b3b4e2328b7c30c8275a0fc05b60a045152d$订阅源
+http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202510290600331785c0712360437ba4598ba21362fdb1&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b3fa55eded050bda35750736108a3a9d&ddCalcu=db93eaf23a7a50850e1d6e3d7005507b5d3a$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://122.189.103.197:8888/rtp/228.0.0.54:6108$雷蒙影视•IPV4『线路66』
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://120.40.57.132:1000/rtp/239.61.2.60:8354$雷蒙影视•IPV4『线路68』
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://61.159.135.223:18000/rtp/238.255.2.51:5999$雷蒙影视•IPV4『线路79』
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://36.46.98.107:8025/rtp/239.112.205.53:5140$雷蒙影视•IPV4『线路89』
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://114.107.44.15:8188/rtp/238.1.78.102:6688$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://106.5.78.180:4022/rtp/239.252.219.46:5140$雷蒙影视•IPV4『线路76』
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://114.100.195.213:4022/rtp/238.1.78.102:6688$雷蒙影视•IPV4『线路81』
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://36.46.98.19:8025/rtp/239.112.205.53:5140$雷蒙影视•IPV4『线路74』
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://223.198.241.248:4000/rtp/239.253.64.46:5140$雷蒙影视•IPV4『线路84』
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://1.58.243.42:4000/rtp/229.58.190.149:5000$雷蒙影视•IPV4『线路99』
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://112.66.92.80:8188/rtp/239.253.64.46:5140$雷蒙影视•IPV4『线路95』
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://116.2.168.176:4010/rtp/232.0.0.101:1234$雷蒙影视•IPV4『线路71』
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://180.165.18.51:9898/rtp/239.45.1.230:5140$雷蒙影视•IPV4『线路80』
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://183.220.107.138:4022/rtp/239.11.0.73:5140$雷蒙影视•IPV4『线路65』
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://122.189.103.197:8888/rtp/228.0.0.121:6108$雷蒙影视•IPV4『线路85』
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://120.40.57.132:1000/rtp/239.61.2.119:8708$雷蒙影视•IPV4『线路99』
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://114.107.44.15:8188/rtp/238.1.78.169:7224$雷蒙影视•IPV4『线路93』
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://115.171.216.45:4000/udp/225.1.8.50:8052$雷蒙影视•IPV4『线路100』
+http://101.66.199.134:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路130』
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://115.58.141.236:4000/rtp/225.1.4.88:1117$雷蒙影视•IPV4『线路87』
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://106.59.2.173:55555/rtp/239.200.200.168:8748$雷蒙影视•IPV4『线路100』
+http://183.220.107.138:4022/rtp/239.11.0.73:5140$雷蒙影视•IPV4『线路65』
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://223.198.241.248:4000/rtp/239.253.64.208:5140$雷蒙影视•IPV4『线路115』
+http://114.100.195.213:4022/rtp/238.1.78.169:7224$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://175.8.181.148:7878/udp/239.76.253.195:9000$雷蒙影视•IPV4『线路96』
+http://171.113.210.116:4022/rtp/239.69.1.69:10054$雷蒙影视•IPV4『线路105』
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://60.163.19.174:8188/udp/233.50.201.105:5140$雷蒙影视•IPV4『线路95』
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://114.107.44.15:8188/rtp/238.1.78.169:7224$雷蒙影视•IPV4『线路93』
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://111.113.88.237:2000/rtp/239.121.4.162:8956$雷蒙影视•IPV4『线路108』
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://1.58.246.238:4000/rtp/229.58.190.160:5000$雷蒙影视•IPV4『线路97』
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://zqh2333.top:2222/rtp/239.93.24.6:5140$订阅源
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=202510281800407c822e1544944debbe24c574f72a7369&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251028180040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.83&SecurityKey=20251028180040&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7dd7d1c6c5db3df57c50be0ab2edf0e3&ddCalcu=37ede0d2f78dd0e12cb6ac05edbb035dcf75$订阅源
+http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=20251029060033b9003f6386fe47c49641ece0eee634f6&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251029060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.88&SecurityKey=20251029060033&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a2f011df6ab5ca0f90b5f04d4ad3cc1f&ddCalcu=fa12ecf2c08310d1ad4fd64a0bf55cba009f$订阅源
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 https://jzb.wwkejishe.top/?id=603$订阅源
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
@@ -946,145 +966,145 @@ http://171.13.165.17:8888/hls/24/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://113.106.171.234:8899/rtp/239.20.0.151:2100$订阅源
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://101.66.199.134:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路129』
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://171.113.210.116:4022/rtp/239.69.1.169:10650$雷蒙影视•IPV4『线路106』
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://111.162.207.136:8686/rtp/225.1.1.123:5002$雷蒙影视•IPV4『线路103』
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://183.220.107.138:4022/rtp/239.11.0.78:5140$雷蒙影视•IPV4『线路79』
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://114.100.195.213:4022/rtp/238.1.78.30:6168$雷蒙影视•IPV4『线路108』
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://114.107.44.15:8188/rtp/238.1.78.30:6168$雷蒙影视•IPV4『线路93』
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://120.40.57.132:1000/rtp/239.61.2.251:9494$雷蒙影视•IPV4『线路100』
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://111.226.232.107:10010/rtp/239.254.200.202:6325$雷蒙影视•IPV4『线路92』
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://175.8.181.148:7878/udp/239.76.246.91:1234$雷蒙影视•IPV4『线路111』
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://115.58.141.236:4000/rtp/225.1.4.151:1306$雷蒙影视•IPV4『线路85』
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://122.189.103.197:8888/rtp/228.0.0.231:6108$雷蒙影视•IPV4『线路85』
+http://111.226.232.107:10010/rtp/239.254.200.202:6325$雷蒙影视•IPV4『线路92』
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://60.163.19.174:8188/udp/233.50.201.139:5140$雷蒙影视•IPV4『线路94』
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://171.13.165.17:8888/hls/29/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://175.8.181.148:7878/udp/239.76.246.91:1234$雷蒙影视•IPV4『线路111』
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://114.100.195.213:4022/rtp/238.1.78.30:6168$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://111.162.207.136:8686/rtp/225.1.1.117:5002$雷蒙影视•IPV4『线路102』
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://112.109.206.113:9999/rtp/239.255.40.199:8208$雷蒙影视•IPV4『线路63』
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://115.171.216.92:4000/udp/225.1.8.43:8020$雷蒙影视•IPV4『线路102』
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://111.226.232.107:10010/rtp/239.254.200.50:8020$雷蒙影视•IPV4『线路93』
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://120.40.57.132:1000/rtp/239.61.3.46:9794$雷蒙影视•IPV4『线路98』
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://175.8.181.148:7878/udp/239.76.246.188:1234$雷蒙影视•IPV4『线路111』
+http://171.113.210.116:4022/rtp/239.254.96.137:8896$雷蒙影视•IPV4『线路105』
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://114.100.195.213:4022/rtp/238.1.78.156:7120$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://106.116.242.179:9999/rtp/239.254.200.50:8020$雷蒙影视•IPV4『线路108』
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://112.66.73.196:8188/rtp/239.253.64.112:5140$雷蒙影视•IPV4『线路27』
+http://111.113.88.237:2000/rtp/239.121.4.119:8696$雷蒙影视•IPV4『线路107』
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://36.46.98.19:8025/rtp/239.112.205.67:5140$雷蒙影视•IPV4『线路106』
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://61.159.135.223:18000/rtp/238.255.2.61:5999$雷蒙影视•IPV4『线路105』
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://106.5.78.180:4022/udp/239.252.219.212:5140$雷蒙影视•IPV4『线路110』
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://1.58.243.42:4000/rtp/229.58.190.52:5000$雷蒙影视•IPV4『线路128』
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://1.58.243.42:4001/rtp/229.58.190.52:5000$雷蒙影视•IPV4『线路117』
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://175.8.181.148:7878/udp/239.76.253.74:9000$雷蒙影视•IPV4『线路26』
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://175.8.181.148:7878/udp/239.76.246.74:1234$雷蒙影视•IPV4『线路39』
+http://106.5.78.180:4022/rtp/239.252.219.76:5140$雷蒙影视•IPV4『线路34』
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://120.40.57.132:1000/rtp/239.61.3.10:9578$雷蒙影视•IPV4『线路30』
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://223.198.241.248:4000/rtp/239.253.64.112:5140$雷蒙影视•IPV4『线路43』
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://112.66.92.80:8188/rtp/239.253.64.112:5140$雷蒙影视•IPV4『线路52』
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://114.107.44.15:8188/rtp/238.1.78.27:6144$雷蒙影视•IPV4『线路30』
+http://180.165.18.51:9898/rtp/239.45.1.82:5140$雷蒙影视•IPV4『线路40』
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://61.159.135.223:18000/rtp/238.255.2.203:5999$雷蒙影视•IPV4『线路39』
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://114.100.195.213:4022/rtp/238.1.78.27:6144$雷蒙影视•IPV4『线路41』
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://115.171.216.45:4000/rtp/225.1.8.78:4120$雷蒙影视•IPV4『线路34』
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://27.41.245.32:801/hls/55/index.m3u8$订阅源
+http://171.104.106.97:50112/udp/239.81.0.242:4056$雷蒙影视•IPV4『线路44』
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://113.106.171.234:8899/rtp/239.20.0.52:3192$订阅源
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://223.198.241.248:4000/rtp/239.253.64.112:5140$雷蒙影视•IPV4『线路43』
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://111.162.207.136:8686/rtp/225.1.2.181:5002$雷蒙影视•IPV4『线路35』
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://114.107.44.15:8188/rtp/238.1.78.27:6144$雷蒙影视•IPV4『线路30』
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://27.41.245.32:801/hls/55/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://111.162.207.136:8686/rtp/225.1.1.111:5002$雷蒙影视•IPV4『线路100』
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://114.107.44.15:8188/rtp/238.1.78.20:6088$雷蒙影视•IPV4『线路90』
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://222.218.122.56:8188/udp/239.81.0.113:4056$雷蒙影视•IPV4『线路61』
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://171.113.210.116:4022/rtp/239.69.1.68:10048$雷蒙影视•IPV4『线路103』
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://113.106.171.234:8899/rtp/239.20.0.171:2140$雷蒙影视•IPV4『线路75』
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://171.113.210.116:4022/rtp/239.69.1.68:10048$雷蒙影视•IPV4『线路103』
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://111.113.88.237:2000/rtp/239.121.4.72:8406$雷蒙影视•IPV4『线路104』
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://114.100.195.213:4022/rtp/238.1.78.20:6088$雷蒙影视•IPV4『线路108』
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://112.66.73.196:8188/rtp/239.253.64.198:5140$雷蒙影视•IPV4『线路95』
+http://61.159.135.223:18000/rtp/238.255.2.99:5999$雷蒙影视•IPV4『线路105』
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://144.255.32.94:8288/udp/239.21.1.165:5002$雷蒙影视•IPV4『线路98』
+http://36.46.98.19:8025/rtp/239.112.205.74:5140$雷蒙影视•IPV4『线路103』
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://106.5.78.180:4022/udp/239.252.220.61:5140$雷蒙影视•IPV4『线路107』
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://cc02.tv12.xyz/9.m3u8$订阅源
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://120.40.57.132:1000/rtp/239.61.2.229:9362$雷蒙影视•IPV4『线路57』
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://61.159.135.223:18000/rtp/238.255.2.65:5999$雷蒙影视•IPV4『线路74』
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://114.107.44.15:8188/rtp/238.1.78.101:6680$雷蒙影视•IPV4『线路58』
+http://61.159.135.223:18000/rtp/238.255.2.202:5999$雷蒙影视•IPV4『线路60』
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://36.46.98.107:8025/rtp/239.112.205.54:5140$雷蒙影视•IPV4『线路74』
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://36.46.98.19:8025/rtp/239.112.205.54:5140$雷蒙影视•IPV4『线路62』
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://114.100.195.213:4022/rtp/238.1.78.101:6680$雷蒙影视•IPV4『线路69』
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://1.58.243.42:4000/rtp/229.58.190.177:5000$雷蒙影视•IPV4『线路84』
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://223.198.241.248:4000/rtp/239.253.64.143:5140$雷蒙影视•IPV4『线路71』
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://106.59.2.173:55555/rtp/239.200.200.61:8312$雷蒙影视•IPV4『线路59』
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://116.2.168.176:4010/rtp/232.0.0.114:1234$雷蒙影视•IPV4『线路60』
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://112.66.73.196:8188/rtp/239.253.64.143:5140$雷蒙影视•IPV4『线路54』
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://120.40.57.132:1000/rtp/239.61.2.227:9350$雷蒙影视•IPV4『线路54』
+http://171.104.106.97:50112/udp/239.81.0.55:4056$雷蒙影视•IPV4『线路69』
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://223.198.241.248:4000/rtp/239.253.64.143:5140$雷蒙影视•IPV4『线路71』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://61.159.135.223:18000/rtp/238.255.2.66:5999$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://114.107.44.15:8188/rtp/238.1.78.110:6752$雷蒙影视•IPV4『线路55』
+http://114.100.195.213:4022/rtp/238.1.78.110:6752$雷蒙影视•IPV4『线路68』
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://36.46.98.107:8025/rtp/239.112.205.56:5140$雷蒙影视•IPV4『线路73』
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://36.46.98.19:8025/rtp/239.112.205.56:5140$雷蒙影视•IPV4『线路59』
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://106.5.78.180:4022/rtp/239.252.219.100:5140$雷蒙影视•IPV4『线路61』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://1.58.243.42:4000/rtp/229.58.190.179:5000$雷蒙影视•IPV4『线路84』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://223.198.241.248:4000/rtp/239.253.64.146:5140$雷蒙影视•IPV4『线路70』
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://106.59.2.173:55555/rtp/239.200.200.62:8316$雷蒙影视•IPV4『线路56』
+http://180.165.18.51:9898/rtp/239.45.1.116:5140$雷蒙影视•IPV4『线路67』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://116.2.168.176:4010/rtp/232.0.0.18:1234$雷蒙影视•IPV4『线路57』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://112.66.92.80:8188/rtp/239.253.64.146:5140$雷蒙影视•IPV4『线路80』
+http://223.198.241.248:4000/rtp/239.253.64.146:5140$雷蒙影视•IPV4『线路70』
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://114.100.195.213:4022/rtp/238.1.78.110:6752$雷蒙影视•IPV4『线路68』
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://180.165.18.51:9898/rtp/239.45.1.116:5140$雷蒙影视•IPV4『线路67』
+http://114.107.44.15:8188/rtp/238.1.78.110:6752$雷蒙影视•IPV4『线路55』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://223.167.245.20:8001/rtp/239.45.0.4:5140$雷蒙影视•IPV4『线路68』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://175.8.181.148:7878/udp/239.76.254.60:9000$雷蒙影视•IPV4『线路65』
+http://61.159.135.223:18000/rtp/238.255.2.63:5999$雷蒙影视•IPV4『线路83』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://60.163.19.174:8188/udp/233.50.200.115:5140$雷蒙影视•IPV4『线路74』
+http://106.5.78.180:4022/udp/239.252.219.185:5140$雷蒙影视•IPV4『线路78』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://120.40.57.132:1000/rtp/239.61.2.61:8360$雷蒙影视•IPV4『线路70』
+http://101.66.199.134:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路104』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://202.107.163.198:5555/udp/238.125.5.32:5140$雷蒙影视•IPV4『线路80』
+http://114.100.195.213:4022/rtp/238.1.78.89:6584$雷蒙影视•IPV4『线路86』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://222.82.202.10:8188/udp/238.125.5.32:5140$雷蒙影视•IPV4『线路92』
+http://36.46.98.107:8025/rtp/239.112.205.58:5140$雷蒙影视•IPV4『线路93』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://1.58.243.42:4001/rtp/229.58.190.176:5000$雷蒙影视•IPV4『线路93』
+http://36.46.98.19:8025/rtp/239.112.205.58:5140$雷蒙影视•IPV4『线路74』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://1.58.243.42:4000/rtp/229.58.190.176:5000$雷蒙影视•IPV4『线路106』
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://61.159.135.223:18000/rtp/238.255.2.63:5999$雷蒙影视•IPV4『线路83』
+http://116.2.168.176:4010/rtp/232.0.0.40:1234$雷蒙影视•IPV4『线路73』
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="港台频道",中視
 rtmp://f13h.mine.nu/sat/tv091$LR•IPV4『线路16』
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="港台频道",華視
@@ -1094,11 +1114,15 @@ https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40$�
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="港台频道",星空卫视
 http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass$订阅源
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="港台频道",星空卫视
-http://111.221.137.155:44330/tsfile/live/0139_1.m3u8?key=txiptv$订阅源
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="港台频道",星空卫视
 http://171.213.217.15:8800/udp/239.93.0.156:2193$雷蒙影视•IPV4『线路7』
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="港台频道",星空卫视
+http://171.213.236.76:8188/udp/239.93.0.156:2193$雷蒙影视•IPV4『线路6』
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
 https://isus.cc/php/huya.php?id=11602077$订阅源
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="电影频道",淘剧场
+http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001$订阅源
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘娱乐.png" group-title="电影频道",淘娱乐
+http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001$订阅源
 #EXTINF:-1 tvg-name="Now华剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now华剧.png" group-title="电影频道",Now华剧
 http://iptv.4666888.xyz/iptv2A.php?id=84$订阅源
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="电影频道",纬来电影
@@ -1111,18 +1135,18 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="电影频道",无线星河
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe$订阅源
-#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="电影频道",无线星河
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="体育频道",纬来体育
+https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="体育频道",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40$订阅源
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="体育频道",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
+https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
+https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="体育频道",体育赛事
+http://139.129.231.228:50060/rtp/239.21.2.44:5002$订阅源
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱体育.png" group-title="体育频道",爱体育
 rtsp://115.153.254.81/PLTV/88888888/224/3221227012/86440946.smil$订阅源
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱体育.png" group-title="体育频道",爱体育
@@ -1130,11 +1154,11 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil$订阅源
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="体育频道",超级体育
 http://111.43.126.240:7777/hls/86/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="体育频道",精品体育
+https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="体育频道",精品体育
 https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8$订阅源
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="体育频道",精品体育
 https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="体育频道",精品体育
-https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="体育频道",精品体育
 http://111.43.126.240:7777/hls/89/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳体育.png" group-title="体育频道",深圳体育
@@ -1144,21 +1168,15 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hOGNbH&tk=6tHSxBtHsehO$订阅源
 #EXTINF:-1 tvg-name="深圳体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳体育.png" group-title="体育频道",深圳体育
 http://wmh.wmh.ink:6633/rtp/239.77.1.8:5146$订阅源
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁体育.png" group-title="体育频道",辽宁体育
-http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁体育.png" group-title="体育频道",辽宁体育
 http://120.76.248.139/live/bfgd/4200000611.m3u8$订阅源
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁体育.png" group-title="体育频道",辽宁体育
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="体育频道",山东体育
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="体育频道",山东体育
 https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tX6uzN&tk=1gkNtYPKIVzz$订阅源
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1X3iro&tk=1gkNtYPKIVzz$订阅源
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V09Xy8&tk=JprgQvDUC7Eb$订阅源
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q6tcAh&tk=JprgQvDUC7Eb$订阅源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=naEvbT&tk=drYJTvNu6ja4$订阅源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
@@ -1166,11 +1184,17 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P11qJg&tk=drYJTvNu6ja4$订阅源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mWSrz4&tk=X4lHfkOKvC0D$订阅源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fzA45N&tk=X4lHfkOKvC0D$订阅源
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oOaLbP&tk=soGbZB48pUQt$订阅源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1uEsUt&tk=soGbZB48pUQt$订阅源
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xq2778&tk=xgSiFxkGQWbN$订阅源
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PQr4N5&tk=xgSiFxkGQWbN$订阅源
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=79UleG&tk=ZcM6GX3iPS3c$订阅源
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏体育.png" group-title="体育频道",江苏体育
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PbUrC6&tk=puYfGAd0X5pD$订阅源
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽综艺体育.png" group-title="体育频道",安徽综艺体育
 http://112.27.235.94:8000/hls/25/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="睛彩羽毛球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩羽毛球.png" group-title="体育频道",睛彩羽毛球
@@ -1182,13 +1206,13 @@ http://58.19.43.46:9901/tsfile/live/1019_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="足球频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/足球频道.png" group-title="体育频道",足球频道
 http://wmh.wmh.ink:6633/rtp/239.253.43.202:5146$订阅源
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="体育频道",天元围棋
-http://ymz.stkeyu.top:8303/rtp/239.253.43.98:5146$订阅源
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="体育频道",天元围棋
 http://121.29.141.15:4022/rtp/239.253.93.211:6389$订阅源
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="体育频道",快乐垂钓
-http://111.196.133.168:8012/rtp/239.3.1.164:8001$订阅源
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="体育频道",天元围棋
+http://ymz.stkeyu.top:8303/rtp/239.253.43.98:5146$订阅源
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="体育频道",快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001$订阅源
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="体育频道",快乐垂钓
+http://111.196.133.168:8012/rtp/239.3.1.164:8001$订阅源
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="体育频道",JJ斗地主
 http://huanqiuzhibo.cn/manifest/douyu.php?id=488743$订阅源
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="动画频道",少儿动画
@@ -1202,8 +1226,12 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="动画频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="动画频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="动画频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-28 18:46:53
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251028180035fa459c98881a4db58dfe3f0630b89072&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251028180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20251028180035&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=40b16fb20d1c460e18bcba000cec1ec3&ddCalcu=34c0eeb2118c60efcb02000da1bcc4b6801e$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 06:51:07
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251029060028407e9e787e3142a0b506b027be72af7d&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251029060028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.88&SecurityKey=20251029060028&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3b70c6911f45528b8130e7a0a95795b2&ddCalcu=23bbe5729087c05699a101af74e50532188b$订阅源
