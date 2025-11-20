@@ -6,15 +6,15 @@ CETV-1,https://migu.188766.xyz/$订阅源
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0$订阅源
 
 卫视频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1f5bbd1c3d7b3187f246f6ef81055213&wsTime=1763604009$订阅源
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b12197ceee8ba1ae935a398d8e80b9dc&wsTime=1763647218$订阅源
 
 港台频道,#genre#
 
 电影频道,#genre#
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373$订阅源
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源
-无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
+无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
 
 体育频道,#genre#
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
@@ -24,4 +24,4 @@ CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源
 动画频道,#genre#
 
 🕘️更新时间,#genre#
-2025-11-20 06:24:27,https://migu.188766.xyz/$订阅源
+2025-11-20 18:26:02,https://migu.188766.xyz/$订阅源
